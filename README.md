@@ -19,3 +19,10 @@
 - orçamento;
 - fluxo de caixa;
 
+
+🎯 Objetivo do projeto
+
+- O objetivo será responder:
+
+-- Qual é a situação financeira da Prudente Distribuidora Ltda. e quais decisões administrativas/financeiras podem melhorar seu resultado e seu fluxo de caixa?
+
