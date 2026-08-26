@@ -18,3 +18,32 @@
 - despesas;
 - orçamento;
 - fluxo de caixa;
+
+
+🏗️ Arquitetura do projeto
+
+                    PRUDENTE DISTRIBUIDORA
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+          CLIENTES       FORNECEDORES      PRODUTOS
+             │               │               │
+             ▼               ▼               ▼
+      CONTAS RECEBER   CONTAS PAGAR       VENDAS
+             │               │               │
+             └───────────────┼───────────────┘
+                             │
+                             ▼
+                       FLUXO DE CAIXA
+                             │
+                             ▼
+                     ANÁLISE FINANCEIRA
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+            EXCEL         POWER BI        SQL
+                                             │
+                                             ▼
+                                          PYTHON
+
+
