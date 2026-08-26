@@ -26,3 +26,42 @@
 
 -- Qual é a situação financeira da Prudente Distribuidora Ltda. e quais decisões administrativas/financeiras podem melhorar seu resultado e seu fluxo de caixa?
 
+
+#### - Perguntas financeiras
+
+- Receitas
+
+-- Quanto a empresa vende?
+-- Qual cliente gera mais receita?
+-- Qual período possui maior faturamento?
+
+- Despesas
+
+-- Quanto a empresa gasta?
+-- Qual fornecedor representa maior despesa?
+-- Quais categorias de despesas mais impactam o resultado?
+
+- Caixa
+
+-- Quanto dinheiro entrou?
+-- Quanto saiu?
+-- Qual o saldo?
+-- Existem períodos de risco?
+
+- Contas a receber
+
+-- Quanto está em aberto?
+-- Quanto está vencido?
+-- Qual cliente apresenta maior inadimplência?
+
+- Contas a pagar
+
+-- Quanto a empresa ainda precisa pagar?
+-- Quais fornecedores concentram os maiores valores?
+
+- Resultado
+
+-- A empresa está gerando lucro?
+-- Qual a margem?
+-- O faturamento está crescendo?
+
