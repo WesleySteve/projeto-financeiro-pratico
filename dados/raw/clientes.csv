@@ -1,0 +1,52 @@
+﻿id_cliente;nome_cliente;cidade;uf;segmento;limite_credito;status
+C0001;Comercial Presidente 01;Regente Feijó;SP;Varejo;60616.29;Ativo
+C0002;Mercado Central 02;;SP;Varejo;55752.46;Ativo
+C0003;Supermercado Avenida 03;Santo Anastácio;SP;Varejo;7234.79;Ativo
+C0004;Mercado Central 04;Presidente Prudente;SP;Mercado;58701.47;Ativo
+C0005;Supermercado União 05;pirapozinho;SP;Food Service;49194.93;Ativo
+C0006;Supermercado Real 06;Álvares Machado;SP;Food Service;30518.79;Ativo
+C0007;Mercado Central 07;Presidente Bernardes;SP;Varejo;11955.94;Ativo
+C0008;Rede Bom Preço 08;Presidente Bernardes;SP;Atacado;65534.62;Ativo
+C0009;mercado são lucas 09;Regente Feijó;SP;Food Service;10910.01;Ativo
+C0010;Distribuidora Nova Era 10;Presidente Bernardes;SP;Mercado;57842.89;Ativo
+C0011;Comercial Presidente 11;Pirapozinho;SP;Atacado;78891.61;Ativo
+C0012;Distribuidora Nova Era 12;Regente Feijó;SP;Food Service;25848.02;Ativo
+C0013;Comercial Oeste 13;Presidente Bernardes;SP;Atacado;12.500,75;Ativo
+C0014;Mercado Ideal 14;Regente Feijó;SP;Mercado;;Ativo
+C0015;Comercial Oeste 15;Rancharia;SP;Food Service;25246.09;Ativo
+C0016;Mercado Central 16;Presidente Bernardes;SP;Varejo;22178.61;Ativo
+C0017;Supermercado Real 17;Presidente Bernardes;SP;Food Service;25080.57;Ativo
+C0018;Mercado Esperança 18;Presidente Bernardes;SP;Mercado;54157.9;Ativo
+C0019;Mercado Esperança 19;Rancharia;SP;Mercado;24866.01;Ativo
+C0020;Mercado Ideal 20;Martinópolis;SP;Food Service;72336.72;Ativo
+C0021;Rede Bom Preço 21;Pirapozinho;SP;Mercado;43214.47;Ativo
+C0022;Supermercado Real 22;Presidente Prudente;SP;Varejo;16463.1;ativo
+C0023;Supermercado Real 23;Santo Anastácio;SP;Varejo;33857.55;Inativo
+C0024;Casa das Compras 24;Martinópolis;SP;Varejo;56021.26;Ativo
+C0025;Comercial Presidente 25;Martinópolis;SP;Atacado;13366.41;Ativo
+C0026;Comercial Oeste 26;Rancharia;SP;Varejo;76536.19;Ativo
+C0027;Mercado São Lucas 27;Álvares Machado;SP;Varejo;70288.89;Ativo
+C0028;Distribuidora Nova Era 28;Pirapozinho;SP;Mercado;33043.54;Ativo
+C0029;Mercado São Lucas 29;Presidente Prudente;SP;Atacado;41645.43;Ativo
+C0030;;Presidente Bernardes;SP;Atacado;22958.92;Ativo
+C0031;Mercado Esperança 31;Regente Feijó;SP;Varejo;59893.07;Ativo
+C0032;Supermercado Real 32;Álvares Machado;SP;Mercado;54481.31;Ativo
+C0033;Comercial Oeste 33;Martinópolis;SP;Food Service;77327.22;Ativo
+C0034;Supermercado Real 34;Pirapozinho;SP;Atacado;34924.42;Ativo
+C0035;Casa das Compras 35;Rancharia;sp;Varejo;23592.92;Ativo
+C0036;Rede Bom Preço 36;Presidente Prudente;SP;;49133.01;
+C0037;Supermercado Avenida 37;Presidente Prudente;SP;Mercado;10055.02;Ativo
+C0038;Distribuidora Nova Era 38;Presidente Bernardes;SP;Varejo;43561.71;Ativo
+C0039;Comercial Presidente 39;Rancharia;SP;Mercado;45442.54;Inativo
+C0040;Varejão Paulista 40;Rancharia;SP;Mercado;63846.46;Ativo
+C0041;Mercado Central 41;Regente Feijó;SP;Varejo;54423.71;Ativo
+C0042;Supermercado União 42;Santo Anastácio;SP;Food Service;69787.76;Ativo
+C0043;Comercial Presidente 43;Regente Feijó;SP;Varejo;35196.6;Ativo
+C0044;Supermercado Real 44;Regente Feijó;SP;Mercado;19369.26;Ativo
+C0045;Casa das Compras 45;Álvares Machado;SP;food service;18761.6;Ativo
+C0046;Mercado Central 46;Regente Feijó;SP;Food Service;65601.67;Ativo
+C0047;Supermercado Avenida 47;Presidente Prudente;SP;Varejo;77674.72;Ativo
+C0048;Comercial Oeste 48;Santo Anastácio;SP;Food Service;41101.88;Ativo
+C0049;Mercado Esperança 49;Presidente Prudente;SP;Mercado;33422.98;Ativo
+C0050;Empório Prudente 50;Rancharia;;Atacado;36725.56;Ativo
+C0014;Mercado Ideal 14;Regente Feijó;SP;Mercado;;Ativo
