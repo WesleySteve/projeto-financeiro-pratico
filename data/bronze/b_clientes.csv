@@ -1,5 +1,6 @@
 id_cliente,nome_cliente,cidade,uf,segmento,limite_credito,status
 C0001,Comercial Presidente 01,Regente Feijó,SP,Varejo,60616.29,Ativo
+C0002,Mercado Central 02,NAO INFORMADO,SP,Varejo,55752.46,Ativo
 C0003,Supermercado Avenida 03,Santo Anastácio,SP,Varejo,7234.79,Ativo
 C0004,Mercado Central 04,Presidente Prudente,SP,Mercado,58701.47,Ativo
 C0005,Supermercado União 05,pirapozinho,SP,Food Service,49194.93,Ativo
@@ -27,11 +28,13 @@ C0026,Comercial Oeste 26,Rancharia,SP,Varejo,76536.19,Ativo
 C0027,Mercado São Lucas 27,Álvares Machado,SP,Varejo,70288.89,Ativo
 C0028,Distribuidora Nova Era 28,Pirapozinho,SP,Mercado,33043.54,Ativo
 C0029,Mercado São Lucas 29,Presidente Prudente,SP,Atacado,41645.43,Ativo
+C0030,NAO INFORMADO,Presidente Bernardes,SP,Atacado,22958.92,Ativo
 C0031,Mercado Esperança 31,Regente Feijó,SP,Varejo,59893.07,Ativo
 C0032,Supermercado Real 32,Álvares Machado,SP,Mercado,54481.31,Ativo
 C0033,Comercial Oeste 33,Martinópolis,SP,Food Service,77327.22,Ativo
 C0034,Supermercado Real 34,Pirapozinho,SP,Atacado,34924.42,Ativo
 C0035,Casa das Compras 35,Rancharia,sp,Varejo,23592.92,Ativo
+C0036,Rede Bom Preço 36,Presidente Prudente,SP,NAO INFORMADO,49133.01,NAO INFORMADO
 C0037,Supermercado Avenida 37,Presidente Prudente,SP,Mercado,10055.02,Ativo
 C0038,Distribuidora Nova Era 38,Presidente Bernardes,SP,Varejo,43561.71,Ativo
 C0039,Comercial Presidente 39,Rancharia,SP,Mercado,45442.54,Inativo
@@ -45,4 +48,5 @@ C0046,Mercado Central 46,Regente Feijó,SP,Food Service,65601.67,Ativo
 C0047,Supermercado Avenida 47,Presidente Prudente,SP,Varejo,77674.72,Ativo
 C0048,Comercial Oeste 48,Santo Anastácio,SP,Food Service,41101.88,Ativo
 C0049,Mercado Esperança 49,Presidente Prudente,SP,Mercado,33422.98,Ativo
+C0050,Empório Prudente 50,Rancharia,NAO INFORMADO,Atacado,36725.56,Ativo
 C0014,Mercado Ideal 14,Regente Feijó,SP,Mercado,0.0,Ativo
