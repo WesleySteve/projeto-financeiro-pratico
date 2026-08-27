@@ -1,0 +1,33 @@
+﻿arquivo;campo;descricao
+clientes.csv;id_cliente;Identificador único do cliente
+clientes.csv;limite_credito;Limite de crédito cadastrado
+fornecedores.csv;id_fornecedor;Identificador único do fornecedor
+produtos.csv;id_produto;Identificador único do produto
+vendas.csv;id_venda;Identificador da venda
+vendas.csv;data_venda;Data da venda
+vendas.csv;id_cliente;Cliente relacionado à venda
+vendas.csv;id_produto;Produto relacionado à venda
+vendas.csv;quantidade;Quantidade vendida
+vendas.csv;valor_unitario;Preço unitário da venda
+vendas.csv;desconto;Desconto aplicado
+vendas.csv;valor_total;Valor total da venda
+contas_receber.csv;id_titulo_receber;Identificador do título a receber
+contas_receber.csv;data_emissao;Data de emissão
+contas_receber.csv;data_vencimento;Data de vencimento
+contas_receber.csv;data_recebimento;Data de recebimento
+contas_receber.csv;valor_titulo;Valor original do título
+contas_receber.csv;valor_recebido;Valor efetivamente recebido
+contas_receber.csv;status;Situação do título
+contas_pagar.csv;id_titulo_pagar;Identificador do título a pagar
+contas_pagar.csv;data_emissao;Data de emissão
+contas_pagar.csv;data_vencimento;Data de vencimento
+contas_pagar.csv;data_pagamento;Data de pagamento
+contas_pagar.csv;categoria_despesa;Categoria da despesa
+contas_pagar.csv;valor_titulo;Valor original do título
+contas_pagar.csv;valor_pago;Valor efetivamente pago
+movimentacoes_bancarias.csv;id_movimento;Identificador da movimentação
+movimentacoes_bancarias.csv;data_movimento;Data da movimentação
+movimentacoes_bancarias.csv;tipo;Entrada ou saída
+movimentacoes_bancarias.csv;categoria;Categoria da movimentação
+movimentacoes_bancarias.csv;valor;Valor movimentado
+movimentacoes_bancarias.csv;conciliado;Indica se foi conciliado
