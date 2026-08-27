@@ -1,0 +1,27 @@
+id_fornecedor,nome_fornecedor,cidade,uf,categoria,prazo_pagamento_dias,status
+F0001,Fornecedor Delta 01,Álvares Machado,SP,Bebidas,21.0,Ativo
+F0002,Fornecedor Alfa 02,Presidente Prudente,SP,Tecnologia,21.0,Ativo
+F0003,Fornecedor Alfa 03,Rancharia,SP,Serviços,60.0,ativo
+F0004,Fornecedor Beta 04,presidente prudente,SP,Serviços,7.0,Ativo
+F0005,Fornecedor Alfa 05,Regente Feijó,SP,Tecnologia,60.0,Ativo
+F0006,Fornecedor Delta 06,Regente Feijó,NAO INFORMADO,Serviços,14.0,Inativo
+F0007,Fornecedor Omega 07,Presidente Prudente,SP,Serviços,7.0,Ativo
+F0008,Fornecedor Omega 08,Presidente Bernardes,sp,Embalagens,14.0,Ativo
+F0009,Fornecedor Beta 09,Martinópolis,SP,Logística,14.0,Ativo
+F0010,fornecedor delta 10,Presidente Bernardes,SP,Alimentos,7.0,Ativo
+F0011,Fornecedor Omega 11,NAO INFORMADO,SP,Alimentos,0.0,Ativo
+F0012,Fornecedor Omega 12,Martinópolis,SP,Bebidas,21.0,Ativo
+F0013,Fornecedor Beta 13,Presidente Bernardes,SP,Embalagens,14.0,Ativo
+F0014,Fornecedor Omega 14,Martinópolis,SP,Serviços,60.0,Ativo
+F0015,Fornecedor Alfa 15,Martinópolis,SP,Tecnologia,7.0,Ativo
+F0016,Fornecedor Gama 16,Regente Feijó,SP,NAO INFORMADO,45.0,Ativo
+F0017,Fornecedor Beta 17,Martinópolis,SP,Embalagens,30.0,Ativo
+F0018,Fornecedor Gama 18,Pirapozinho,SP,Tecnologia,45.0,NAO INFORMADO
+F0019,Fornecedor Omega 19,Rancharia,SP,Embalagens,60.0,Ativo
+F0020,NAO INFORMADO,Santo Anastácio,SP,Embalagens,7.0,Ativo
+F0021,Fornecedor Gama 21,Álvares Machado,SP,tecnologia,21.0,Ativo
+F0022,Fornecedor Delta 22,Santo Anastácio,SP,Serviços,7.0,Ativo
+F0023,Fornecedor Alfa 23,Álvares Machado,SP,Serviços,7.0,Ativo
+F0024,Fornecedor Omega 24,Álvares Machado,SP,Logística,14.0,Ativo
+F0025,Fornecedor Gama 25,Presidente Bernardes,SP,Alimentos,21.0,Ativo
+F0002,Fornecedor Alfa 02,Presidente Prudente,SP,Tecnologia,21.0,Ativo
