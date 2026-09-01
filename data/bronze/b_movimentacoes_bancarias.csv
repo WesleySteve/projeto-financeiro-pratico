@@ -1,0 +1,1016 @@
+id_movimento,data_movimento,tipo,categoria,descricao,valor,conta_bancaria,conciliado
+MB000001,2026-05-14,Entrada,Outros,Outros - operação 1,11974.55,Banco B,Sim
+MB000002,2026-03-15,Entrada,Energia,Energia - operação 2,329.88,Banco A,Sim
+MB000003,2026-03-14,Saída,Pagamento fornecedor,NAO INFORMADO,1004.82,Banco B,Sim
+MB000004,2026-04-21,Saída,Recebimento de cliente,Recebimento de cliente - operação 4,945.74,Banco A,Sim
+MB000005,2026-08-13,Entrada,Outros,Outros - operação 5,11992.6,Banco C,Sim
+MB000006,2026-01-23,Entrada,Salário,Salário - operação 6,17926.66,Banco A,Sim
+MB000007,2026-05-30,Entrada,Energia,Energia - operação 7,3978.5,Banco B,Sim
+MB000008,2026-03-05,Saída,Tarifa bancária,Tarifa bancária - operação 8,7214.09,Banco A,Sim
+MB000009,2026-03-19,Saída,Energia,Energia - operação 9,3160.77,Banco B,Sim
+MB000010,2026-07-25,Saída,Salário,Salário - operação 10,12315.62,Banco A,Sim
+MB000011,2026-02-04,Saída,Outros,Outros - operação 11,3631.44,Banco B,Sim
+MB000012,2026-03-18,Saída,Transferência,Transferência - operação 12,9847.66,Banco B,Sim
+MB000013,2026-01-25,Entrada,Outros,Outros - operação 13,7982.13,Banco B,Sim
+MB000014,2026-06-25,Saída,Transferência,NAO INFORMADO,6407.78,Banco B,Sim
+MB000015,2026-04-16,Saída,Recebimento de cliente,Recebimento de cliente - operação 15,16430.42,Banco A,Sim
+MB000016,2026-01-23,Entrada,Energia,Energia - operação 16,14170.05,Banco C,Sim
+MB000017,2026-04-06,Entrada,Outros,Outros - operação 17,16203.43,Banco B,Sim
+MB000018,2026-07-13,Saída,Salário,Salário - operação 18,7282.81,Banco A,Sim
+MB000019,2026-07-26,Saída,Transferência,Transferência - operação 19,15113.6,Banco A,Sim
+MB000020,2026-03-11,Entrada,Impostos,Impostos - operação 20,10718.4,Banco B,Não
+MB000021,2026-05-04,Saída,Recebimento de cliente,Recebimento de cliente - operação 21,2229.9,Banco C,Sim
+MB000022,2026-07-09,Entrada,Aluguel,Aluguel - operação 22,9316.94,Banco C,Sim
+MB000023,2026-02-04,Entrada,Salário,Salário - operação 23,5451.02,Banco B,Sim
+MB000024,2026-07-26,Saída,Aluguel,Aluguel - operação 24,2109.02,Banco A,Sim
+MB000025,2026-06-04,Entrada,Outros,Outros - operação 25,1788.7,Banco A,Sim
+MB000026,2026-05-02,Entrada,Outros,Outros - operação 26,8016.49,Banco A,Sim
+MB000027,2026-03-18,Saída,Transferência,Transferência - operação 27,17689.4,NAO INFORMADO,Sim
+MB000028,2026-03-08,Saída,Transferência,Transferência - operação 28,15474.68,Banco C,Sim
+MB000029,2026-04-21,Entrada,Recebimento de cliente,Recebimento de cliente - operação 29,3367.3,Banco C,Sim
+MB000030,2026-02-13,Saída,Outros,Outros - operação 30,3646.3,Banco B,Sim
+MB000031,2026-03-16,Entrada,Transferência,Transferência - operação 31,6643.74,Banco B,Sim
+MB000032,2026-04-09,Entrada,Transferência,Transferência - operação 32,0.0,Banco B,Sim
+MB000033,2026-01-08,Entrada,Transferência,Transferência - operação 33,2206.27,Banco B,Sim
+MB000034,2026-05-29,Entrada,Recebimento de cliente,Recebimento de cliente - operação 34,11629.71,Banco C,Não
+MB000035,2026-04-24,Entrada,Impostos,Impostos - operação 35,17332.2,Banco B,Sim
+MB000036,2026-03-12,Entrada,Salário,Salário - operação 36,6471.57,Banco C,Sim
+MB000037,2026-03-31,Saída,Tarifa bancária,Tarifa bancária - operação 37,9259.16,Banco A,Sim
+MB000038,2026-04-01,Saída,Impostos,Impostos - operação 38,8297.7,Banco A,Sim
+MB000039,2026-07-20,Entrada,Tarifa bancária,Tarifa bancária - operação 39,1274.37,Banco C,sim
+MB000040,2026-04-07,NAO INFORMADO,Salário,Salário - operação 40,10389.9,Banco C,Sim
+MB000041,2026-03-08,Entrada,Impostos,Impostos - operação 41,10619.9,Banco C,sim
+MB000042,2026-05-30,Saída,Tarifa bancária,Tarifa bancária - operação 42,1262.88,Banco A,Sim
+MB000043,2026-03-01,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 43,9014.84,Banco C,Sim
+MB000044,2026-03-24,Entrada,Aluguel,Aluguel - operação 44,1942.5,Banco A,Sim
+MB000045,2026-07-13,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 45,1161.58,Banco B,sim
+MB000046,2026-01-10,Entrada,NAO INFORMADO,Transferência - operação 46,13752.17,Banco C,Sim
+MB000047,2026-02-14,Saída,Pagamento fornecedor,pagamento fornecedor - operação 47,12592.13,Banco B,Sim
+MB000048,2026-06-13,Saída,Outros,Outros - operação 48,3635.23,Banco B,Sim
+MB000049,2026-04-23,Entrada,Aluguel,Aluguel - operação 49,3661.41,Banco A,Sim
+MB000050,2026-07-28,Saída,Aluguel,Aluguel - operação 50,1594.03,Banco A,Sim
+MB000051,2026-02-22,Entrada,Salário,Salário - operação 51,16084.57,Banco B,Sim
+MB000052,2026-05-26,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 52,6165.77,Banco C,Sim
+MB000053,2026-05-08,Entrada,Aluguel,Aluguel - operação 53,10288.14,Banco B,Sim
+MB000054,2026-04-01,Saída,Outros,NAO INFORMADO,15368.92,Banco A,Sim
+MB000055,2026-04-20,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 55,10266.29,Banco A,Sim
+MB000056,2026-03-18,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 56,9001.88,Banco A,Não
+MB000057,2026-05-19,saída,Recebimento de cliente,Recebimento de cliente - operação 57,4071.18,Banco B,Sim
+MB000058,2026-04-10,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 58,15710.34,Banco A,Sim
+MB000059,2026-01-20,Saída,Aluguel,Aluguel - operação 59,15364.85,Banco C,Sim
+MB000060,2026-03-21,Saída,Recebimento de cliente,Recebimento de cliente - operação 60,9849.65,Banco A,Não
+MB000061,2026-05-01,Entrada,Recebimento de cliente,Recebimento de cliente - operação 61,629.33,Banco B,Sim
+MB000062,2026-02-21,Saída,Recebimento de cliente,Recebimento de cliente - operação 62,2550.23,Banco C,Sim
+MB000063,2026-07-13,NAO INFORMADO,Aluguel,Aluguel - operação 63,8909.31,Banco C,Não
+MB000064,2026-06-29,Entrada,Impostos,Impostos - operação 64,17659.96,Banco B,Não
+MB000065,2026-07-09,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 65,15980.96,Banco B,NAO INFORMADO
+MB000066,2026-03-11,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 66,689.02,Banco C,Sim
+MB000067,2026-06-16,Saída,Tarifa bancária,Tarifa bancária - operação 67,8622.79,Banco A,Sim
+MB000068,2026-01-15,Entrada,Aluguel,Aluguel - operação 68,9638.64,Banco B,Sim
+MB000069,2026-05-22,Saída,Recebimento de cliente,Recebimento de cliente - operação 69,6998.89,Banco B,Sim
+MB000070,2026-04-21,Saída,Outros,Outros - operação 70,2522.98,Banco B,Sim
+MB000071,2026-08-18,Saída,Impostos,Impostos - operação 71,,Banco B,Sim
+MB000072,2026-01-15,Entrada,Aluguel,Aluguel - operação 72,1701.24,NAO INFORMADO,Sim
+MB000073,2026-04-16,saída,Recebimento de cliente,Recebimento de cliente - operação 73,17837.35,Banco A,Sim
+MB000074,2026-07-28,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 74,1066.95,Banco B,Sim
+MB000075,2026-03-14,Entrada,Impostos,Impostos - operação 75,6326.53,Banco C,Sim
+MB000076,2026-03-16,Entrada,Tarifa bancária,Tarifa bancária - operação 76,8642.69,Banco A,Sim
+MB000077,2026-01-20,Entrada,Outros,NAO INFORMADO,3745.2,Banco C,Sim
+MB000078,2026-08-18,NAO INFORMADO,Transferência,Transferência - operação 78,12850.75,Banco B,Sim
+MB000079,2026-03-16,Entrada,Outros,Outros - operação 79,16078.96,Banco B,Sim
+MB000080,2026-05-09,Entrada,Recebimento de cliente,Recebimento de cliente - operação 80,6272.11,Banco B,Não
+MB000081,2026-05-05,entrada,Pagamento fornecedor,Pagamento fornecedor - operação 81,3703.81,Banco A,Sim
+MB000082,2026-03-01,Entrada,Outros,Outros - operação 82,3833.31,Banco B,Sim
+MB000083,2026-01-10,Entrada,Transferência,Transferência - operação 83,11715.85,banco b,Sim
+MB000084,2026-01-06,saída,Recebimento de cliente,Recebimento de cliente - operação 84,4901.86,Banco C,Sim
+MB000085,2026-03-18,Entrada,Recebimento de cliente,Recebimento de cliente - operação 85,5059.71,Banco C,Sim
+MB000086,2026-05-07,Entrada,Tarifa bancária,Tarifa bancária - operação 86,6954.71,Banco A,Sim
+MB000087,2026-02-22,Saída,Salário,Salário - operação 87,11895.67,Banco C,Sim
+MB000088,2026-06-19,Entrada,Recebimento de cliente,Recebimento de cliente - operação 88,9770.81,Banco B,Sim
+MB000089,2026-06-05,Saída,Energia,Energia - operação 89,14593.87,Banco C,Sim
+MB000090,2026-07-13,Entrada,Impostos,Impostos - operação 90,13077.86,Banco C,Sim
+MB000091,2026-08-10,Saída,Recebimento de cliente,Recebimento de cliente - operação 91,14542.77,Banco C,Sim
+MB000092,2026-07-04,Entrada,Outros,Outros - operação 92,8369.87,Banco C,Não
+MB000093,2026-07-16,Saída,Energia,Energia - operação 93,2967.75,Banco B,Sim
+MB000094,2026-07-10,Entrada,Salário,Salário - operação 94,16343.44,Banco B,Sim
+MB000095,2026-01-22,Entrada,Outros,Outros - operação 95,5360.06,Banco C,Sim
+MB000096,2026-01-10,Saída,Energia,Energia - operação 96,6542.42,Banco C,Sim
+MB000097,2026-07-20,Saída,Recebimento de cliente,Recebimento de cliente - operação 97,2281.3,Banco C,Sim
+MB000098,2026-08-03,Entrada,Salário,Salário - operação 98,8016.37,Banco A,Sim
+MB000099,2026-01-03,Saída,Recebimento de cliente,Recebimento de cliente - operação 99,17387.64,Banco B,Sim
+MB000100,2026-02-25,Saída,Recebimento de cliente,Recebimento de cliente - operação 100,10453.29,Banco A,Sim
+MB000101,2026-08-18,Saída,Outros,Outros - operação 101,5686.78,Banco A,Sim
+MB000102,2026-02-16,Entrada,Energia,Energia - operação 102,4708.76,Banco B,Sim
+MB000103,2026-02-28,Entrada,Salário,Salário - operação 103,15688.74,Banco C,Sim
+MB000104,2026-03-01,Entrada,Recebimento de cliente,Recebimento de cliente - operação 104,3357.39,Banco C,Sim
+MB000105,2026-05-29,Saída,Recebimento de cliente,Recebimento de cliente - operação 105,9983.67,Banco A,Sim
+MB000106,2026-07-02,entrada,Energia,Energia - operação 106,339.32,Banco B,Sim
+MB000107,2026-07-03,Entrada,Aluguel,Aluguel - operação 107,6327.65,Banco A,Sim
+MB000108,2026-04-24,Entrada,Outros,Outros - operação 108,1440.23,Banco A,Sim
+MB000109,2026-05-27,Saída,Tarifa bancária,Tarifa bancária - operação 109,1331.51,Banco B,Sim
+MB000110,2026-02-06,Entrada,Impostos,Impostos - operação 110,10945.05,Banco B,Sim
+MB000111,2026-04-15,Saída,Transferência,Transferência - operação 111,16967.51,Banco B,Não
+MB000112,2026-01-08,Entrada,Impostos,Impostos - operação 112,850.76,Banco A,Não
+MB000113,2026-01-07,Entrada,aluguel,Aluguel - operação 113,14554.21,Banco C,Sim
+MB000114,2026-07-20,Saída,Impostos,Impostos - operação 114,16921.92,Banco B,Não
+MB000115,2026-01-09,Entrada,Tarifa bancária,Tarifa bancária - operação 115,13738.88,Banco C,Sim
+MB000116,2026-01-20,Entrada,Outros,Outros - operação 116,17960.74,Banco C,Sim
+MB000117,2026-07-07,Saída,Outros,Outros - operação 117,13208.17,Banco C,Sim
+MB000118,2026-06-05,Saída,Outros,Outros - operação 118,9390.03,Banco B,Sim
+MB000119,2026-02-19,Saída,Energia,Energia - operação 119,16403.7,Banco B,Sim
+MB000120,2026-07-24,Saída,Aluguel,Aluguel - operação 120,8231.99,Banco C,Sim
+MB000121,2026-06-27,Entrada,Transferência,Transferência - operação 121,13203.73,Banco B,Sim
+MB000122,2026-01-21,Saída,Outros,Outros - operação 122,9126.3,Banco B,Sim
+MB000123,2026-06-04,Entrada,Transferência,Transferência - operação 123,14164.16,Banco A,Não
+MB000124,2026-07-31,Entrada,Outros,Outros - operação 124,4446.74,Banco B,Não
+MB000125,2026-06-20,Entrada,Energia,Energia - operação 125,14335.61,Banco B,Sim
+MB000126,2026-01-31,Entrada,Tarifa bancária,Tarifa bancária - operação 126,7607.36,Banco A,Não
+MB000127,2026-05-07,Entrada,Salário,Salário - operação 127,15781.48,Banco A,Sim
+MB000128,2026-01-31,Saída,Energia,Energia - operação 128,13790.9,Banco C,Sim
+MB000129,2026-07-10,Entrada,Salário,Salário - operação 129,15656.79,Banco B,Sim
+MB000130,2026-06-26,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 130,2426.18,Banco C,Sim
+MB000131,2026-08-20,Saída,Impostos,Impostos - operação 131,2337.78,Banco C,Sim
+MB000132,2026-03-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 132,6095.71,Banco B,Não
+MB000133,2026-06-05,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 133,17894.71,Banco A,Sim
+MB000134,2026-07-09,Saída,Transferência,Transferência - operação 134,16396.6,Banco C,Sim
+MB000135,2026-07-09,Saída,Energia,Energia - operação 135,13650.0,Banco C,Sim
+MB000136,2026-07-07,Entrada,Outros,Outros - operação 136,1554.02,Banco A,Não
+MB000137,2026-06-01,Saída,Transferência,Transferência - operação 137,6859.77,Banco B,Sim
+MB000138,2026-05-11,Saída,Energia,Energia - operação 138,17008.59,Banco A,Sim
+MB000139,2026-03-18,Saída,Impostos,Impostos - operação 139,916.77,Banco C,Sim
+MB000140,2026-05-29,Saída,Tarifa bancária,Tarifa bancária - operação 140,5170.37,Banco B,Sim
+MB000141,2026-07-13,Entrada,Salário,Salário - operação 141,802.72,Banco C,Sim
+MB000142,2026-04-21,Saída,Energia,Energia - operação 142,10373.72,Banco C,Sim
+MB000143,2026-01-26,Saída,Energia,Energia - operação 143,3022.39,Banco B,Sim
+MB000144,2026-05-05,Saída,Aluguel,Aluguel - operação 144,15942.02,Banco B,Sim
+MB000145,2026-06-05,Entrada,Aluguel,Aluguel - operação 145,12012.48,Banco A,Sim
+MB000146,2026-02-22,Saída,Outros,Outros - operação 146,13599.82,Banco A,Não
+MB000147,2026-08-20,Entrada,Outros,Outros - operação 147,9705.59,Banco A,Sim
+MB000148,2026-05-06,Entrada,Impostos,Impostos - operação 148,3696.38,Banco C,Sim
+MB000149,2026-07-07,Saída,Outros,Outros - operação 149,2314.91,Banco B,NAO INFORMADO
+MB000150,2026-01-29,Entrada,Transferência,Transferência - operação 150,16005.39,Banco B,NAO INFORMADO
+MB000151,2026-01-23,Entrada,Energia,Energia - operação 151,13182.83,Banco A,Sim
+MB000152,2026-07-25,Entrada,Aluguel,Aluguel - operação 152,13106.14,Banco B,Sim
+MB000153,2026-05-10,Saída,Energia,Energia - operação 153,8189.68,Banco C,Sim
+MB000154,2026-06-22,Entrada,Impostos,Impostos - operação 154,16066.29,Banco A,Sim
+MB000155,2026-01-26,Saída,Impostos,NAO INFORMADO,3467.66,Banco C,Sim
+MB000156,2026-06-12,Entrada,Aluguel,Aluguel - operação 156,2506.9,Banco B,Sim
+MB000157,2026-06-22,Entrada,Energia,Energia - operação 157,8488.57,Banco B,Sim
+MB000158,2026-07-07,Saída,Energia,Energia - operação 158,2415.67,Banco C,Sim
+MB000159,2026-05-13,Entrada,Recebimento de cliente,Recebimento de cliente - operação 159,7846.02,Banco B,Sim
+MB000160,2026-06-06,Entrada,Salário,Salário - operação 160,746.69,Banco C,Sim
+MB000161,2026-06-07,Saída,Aluguel,Aluguel - operação 161,11496.98,Banco B,Sim
+MB000162,2026-06-18,Entrada,Energia,Energia - operação 162,15140.42,Banco B,Sim
+MB000163,2026-05-06,Saída,Impostos,Impostos - operação 163,9804.27,Banco B,Sim
+MB000164,2026-02-26,Entrada,Energia,Energia - operação 164,7581.71,Banco B,Sim
+MB000165,2026-03-05,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 165,3212.69,Banco B,Sim
+MB000166,2026-03-30,Saída,Salário,Salário - operação 166,13937.59,Banco B,Sim
+MB000167,2026-06-03,Saída,Aluguel,Aluguel - operação 167,569.88,Banco B,Sim
+MB000168,2026-02-25,Saída,Recebimento de cliente,Recebimento de cliente - operação 168,10142.52,Banco B,Sim
+MB000169,2026-06-22,Saída,Tarifa bancária,Tarifa bancária - operação 169,7075.24,Banco B,Sim
+MB000170,2026-04-13,Entrada,Recebimento de cliente,Recebimento de cliente - operação 170,4866.29,Banco C,Sim
+MB000171,2026-03-28,Entrada,Energia,Energia - operação 171,8085.07,Banco A,Não
+MB000172,2026-08-13,Entrada,Outros,Outros - operação 172,3751.3,Banco C,Sim
+MB000173,2026-06-07,Saída,Impostos,Impostos - operação 173,2369.42,Banco C,Sim
+MB000174,2026-07-04,Entrada,Tarifa bancária,Tarifa bancária - operação 174,1670.04,Banco C,Sim
+MB000175,2026-04-01,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 175,11806.02,Banco C,Sim
+MB000176,2026-04-03,Saída,Aluguel,Aluguel - operação 176,17734.65,Banco C,Sim
+MB000177,2026-08-09,Entrada,Energia,Energia - operação 177,14433.07,Banco B,Sim
+MB000178,2026-04-16,Entrada,Outros,Outros - operação 178,13213.35,NAO INFORMADO,Sim
+MB000179,2026-08-05,Entrada,Outros,Outros - operação 179,1890.25,Banco B,Sim
+MB000180,2026-01-11,Entrada,Energia,Energia - operação 180,5461.32,Banco A,Sim
+MB000181,2026-01-09,Entrada,Pagamento fornecedor,pagamento fornecedor - operação 181,14643.28,Banco B,Sim
+MB000182,2026-02-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 182,1423.66,Banco C,Sim
+MB000183,2026-01-06,Entrada,Outros,Outros - operação 183,10907.45,Banco A,Sim
+MB000184,2026-07-08,Saída,NAO INFORMADO,Tarifa bancária - operação 184,3537.4,Banco C,Sim
+MB000185,2026-07-20,NAO INFORMADO,Tarifa bancária,Tarifa bancária - operação 185,9246.78,Banco A,Sim
+MB000186,2026-03-12,Saída,Aluguel,Aluguel - operação 186,1839.24,Banco C,Não
+MB000187,2026-05-01,Saída,Energia,Energia - operação 187,7760.15,Banco A,Sim
+MB000188,2026-05-24,Entrada,Transferência,Transferência - operação 188,5155.39,Banco C,Sim
+MB000189,2026-05-10,Entrada,Tarifa bancária,Tarifa bancária - operação 189,358.96,Banco B,Sim
+MB000190,2026-04-06,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 190,8168.25,Banco C,Sim
+MB000191,2026-04-12,Entrada,Transferência,Transferência - operação 191,6688.3,Banco C,Sim
+MB000192,2026-06-14,Entrada,NAO INFORMADO,Impostos - operação 192,2630.69,NAO INFORMADO,Sim
+MB000193,2026-01-25,saída,Salário,Salário - operação 193,3777.89,Banco B,Não
+MB000194,2026-03-05,Entrada,Salário,Salário - operação 194,7287.35,Banco B,Sim
+MB000195,2026-07-05,NAO INFORMADO,Aluguel,Aluguel - operação 195,1107.85,Banco B,Sim
+MB000196,2026-04-16,Entrada,Impostos,Impostos - operação 196,15026.11,Banco A,Sim
+MB000197,2026-06-26,Saída,Tarifa bancária,Tarifa bancária - operação 197,15692.13,Banco B,Sim
+MB000198,2026-07-13,Saída,Transferência,Transferência - operação 198,9843.32,NAO INFORMADO,Sim
+MB000199,2026-03-24,Saída,Transferência,Transferência - operação 199,9284.04,Banco C,Sim
+MB000200,2026-01-27,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 200,6793.56,Banco A,Sim
+MB000201,2026-05-14,Entrada,Salário,Salário - operação 201,3592.75,Banco A,Sim
+MB000202,2026-08-15,Saída,Transferência,transferência - operação 202,3114.46,Banco C,Sim
+MB000203,2026-02-05,Saída,Tarifa bancária,Tarifa bancária - operação 203,7219.33,Banco B,Sim
+MB000204,2026-04-22,Entrada,Energia,Energia - operação 204,9428.52,Banco C,Sim
+MB000205,2026-05-25,Entrada,Salário,Salário - operação 205,0.0,Banco C,Sim
+MB000206,2026-07-25,Saída,Impostos,Impostos - operação 206,9372.87,Banco B,Sim
+MB000207,2026-04-29,Entrada,Impostos,Impostos - operação 207,16691.08,Banco C,Sim
+MB000208,2026-02-12,Saída,Transferência,Transferência - operação 208,226.29,Banco B,Sim
+MB000209,2026-02-08,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 209,17879.92,Banco A,Sim
+MB000210,2026-06-29,Entrada,Aluguel,Aluguel - operação 210,12508.11,Banco C,Sim
+MB000211,2026-03-26,Entrada,Recebimento de cliente,Recebimento de cliente - operação 211,11268.26,Banco C,Sim
+MB000212,2026-01-18,Saída,Outros,Outros - operação 212,15906.01,Banco B,Sim
+MB000213,2026-02-19,Entrada,Energia,Energia - operação 213,14782.54,Banco B,Não
+MB000214,2026-07-06,Entrada,Impostos,Impostos - operação 214,11259.79,Banco B,Sim
+MB000215,2026-05-24,Saída,Aluguel,Aluguel - operação 215,1440.7,Banco A,Sim
+MB000216,2026-07-07,Entrada,Energia,Energia - operação 216,3250.94,Banco C,Sim
+MB000217,2026-02-02,Saída,Tarifa bancária,Tarifa bancária - operação 217,5976.38,Banco C,Não
+MB000218,2026-03-12,Saída,Transferência,Transferência - operação 218,3807.06,Banco A,Sim
+MB000219,2026-02-25,Entrada,Salário,Salário - operação 219,2622.83,Banco B,Sim
+MB000220,2026-03-24,Entrada,Recebimento de cliente,Recebimento de cliente - operação 220,2508.7,Banco B,Sim
+MB000221,2026-06-20,Saída,Impostos,Impostos - operação 221,5480.92,Banco A,Sim
+MB000222,2026-05-24,Saída,Tarifa bancária,Tarifa bancária - operação 222,13941.86,Banco C,Sim
+MB000223,2026-04-01,Entrada,Outros,Outros - operação 223,5739.65,Banco A,Não
+MB000224,2026-08-04,Entrada,Salário,Salário - operação 224,17021.54,Banco B,Sim
+MB000225,2026-08-04,Saída,Outros,Outros - operação 225,7977.56,Banco C,Sim
+MB000226,2026-06-25,Entrada,Outros,Outros - operação 226,16200.73,Banco C,Sim
+MB000227,2026-02-15,Entrada,Impostos,Impostos - operação 227,15403.93,Banco C,Sim
+MB000228,2026-07-06,saída,Aluguel,Aluguel - operação 228,11124.69,Banco A,Sim
+MB000229,2026-04-06,Entrada,Recebimento de cliente,Recebimento de cliente - operação 229,3565.26,Banco B,Sim
+MB000230,2026-02-19,Entrada,Energia,Energia - operação 230,5945.71,Banco B,Sim
+MB000231,2026-05-09,Entrada,Energia,Energia - operação 231,651.83,Banco B,Sim
+MB000232,2026-04-12,Entrada,Energia,Energia - operação 232,4971.42,Banco A,Não
+MB000233,2026-07-30,Entrada,Transferência,Transferência - operação 233,17950.31,Banco C,Sim
+MB000234,2026-05-06,Entrada,Transferência,Transferência - operação 234,13511.35,Banco C,Sim
+MB000235,2026-07-26,Entrada,Recebimento de cliente,recebimento de cliente - operação 235,6683.13,Banco C,Sim
+MB000236,2026-06-30,Entrada,Salário,Salário - operação 236,1536.7,Banco A,Sim
+MB000237,2026-04-24,Entrada,Impostos,Impostos - operação 237,1799.68,Banco C,Sim
+MB000238,2026-08-07,Entrada,Recebimento de cliente,Recebimento de cliente - operação 238,6021.34,Banco C,Sim
+MB000239,2026-08-18,Entrada,Impostos,Impostos - operação 239,9318.31,Banco C,Sim
+MB000240,2026-04-17,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 240,3513.27,Banco C,Sim
+MB000241,2026-07-06,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 241,3147.9,Banco A,Sim
+MB000242,2026-06-05,Entrada,Outros,Outros - operação 242,7396.06,Banco C,Sim
+MB000243,2026-03-21,Entrada,Outros,Outros - operação 243,6344.79,Banco B,Sim
+MB000244,2026-05-26,Entrada,NAO INFORMADO,Transferência - operação 244,1632.51,Banco A,Sim
+MB000245,2026-07-06,Entrada,Salário,Salário - operação 245,5749.15,Banco C,Sim
+MB000246,2026-07-16,Entrada,Recebimento de cliente,Recebimento de cliente - operação 246,3954.59,Banco B,Sim
+MB000247,2026-01-21,Entrada,Energia,Energia - operação 247,15079.68,Banco C,Sim
+MB000248,2026-07-11,Entrada,Energia,Energia - operação 248,1007.37,Banco C,Sim
+MB000249,2026-02-15,Entrada,Salário,Salário - operação 249,10192.47,Banco B,Sim
+MB000250,2026-08-02,Entrada,Energia,Energia - operação 250,15910.06,Banco A,Sim
+MB000251,2026-03-08,Saída,Energia,Energia - operação 251,1708.8,Banco B,Não
+MB000252,2026-04-04,Saída,Outros,Outros - operação 252,8121.63,Banco C,Sim
+MB000253,2026-01-10,Saída,Tarifa bancária,Tarifa bancária - operação 253,2844.89,Banco C,Sim
+MB000254,2026-06-29,Saída,Impostos,Impostos - operação 254,11645.84,Banco C,Sim
+MB000255,2026-02-23,Saída,Outros,Outros - operação 255,9951.42,Banco C,Sim
+MB000256,2026-01-24,Saída,Aluguel,Aluguel - operação 256,4684.94,Banco B,Sim
+MB000257,2026-01-09,Entrada,NAO INFORMADO,Outros - operação 257,11867.06,Banco A,Sim
+MB000258,2026-02-05,Saída,Impostos,Impostos - operação 258,6732.48,Banco B,Não
+MB000259,2026-08-19,Entrada,Impostos,Impostos - operação 259,12638.12,Banco C,Sim
+MB000260,2026-08-11,Entrada,Salário,Salário - operação 260,7614.27,Banco B,Sim
+MB000261,2026-06-15,Entrada,Salário,Salário - operação 261,16441.02,Banco B,Sim
+MB000262,2026-04-30,Saída,Salário,Salário - operação 262,13549.21,Banco B,Não
+MB000263,2026-04-27,Saída,Tarifa bancária,Tarifa bancária - operação 263,13170.64,Banco B,Sim
+MB000264,2026-03-06,Saída,Impostos,Impostos - operação 264,8711.91,Banco B,Sim
+MB000265,2026-01-11,Entrada,Outros,Outros - operação 265,1986.0,Banco B,Sim
+MB000266,2026-05-28,Saída,Recebimento de cliente,Recebimento de cliente - operação 266,2994.27,Banco A,Sim
+MB000267,2026-08-15,Saída,Outros,Outros - operação 267,3612.4,Banco C,Sim
+MB000268,2026-02-03,Saída,Recebimento de cliente,Recebimento de cliente - operação 268,17467.34,Banco B,Sim
+MB000269,2026-07-25,Saída,Transferência,Transferência - operação 269,7158.09,Banco B,Sim
+MB000270,2026-06-18,Entrada,Aluguel,Aluguel - operação 270,15899.04,Banco B,Sim
+MB000271,2026-01-21,Entrada,Aluguel,Aluguel - operação 271,15446.83,Banco B,Sim
+MB000272,2026-07-05,Entrada,Salário,Salário - operação 272,12340.61,Banco B,Sim
+MB000273,2026-05-03,Entrada,Impostos,Impostos - operação 273,1843.45,Banco C,Sim
+MB000274,2026-06-28,Entrada,Transferência,Transferência - operação 274,12048.44,Banco B,Sim
+MB000275,2026-07-15,Entrada,Tarifa bancária,Tarifa bancária - operação 275,2356.62,Banco A,Sim
+MB000276,2026-07-17,Saída,Energia,Energia - operação 276,14765.25,Banco C,Sim
+MB000277,2026-06-02,Saída,Outros,Outros - operação 277,1336.24,Banco B,Não
+MB000278,2026-01-07,Entrada,Salário,Salário - operação 278,13832.8,Banco B,Sim
+MB000279,2026-03-29,Saída,Recebimento de cliente,Recebimento de cliente - operação 279,11009.67,Banco B,Sim
+MB000280,2026-06-15,Entrada,Salário,Salário - operação 280,9024.1,Banco A,Sim
+MB000281,2026-03-19,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 281,6145.58,Banco C,Sim
+MB000282,2026-04-19,Entrada,Energia,Energia - operação 282,5634.1,Banco C,Sim
+MB000283,2026-01-09,Entrada,Tarifa bancária,Tarifa bancária - operação 283,3272.35,Banco B,Sim
+MB000284,2026-08-02,Entrada,Transferência,NAO INFORMADO,14521.81,Banco B,Sim
+MB000285,2026-06-17,Saída,Recebimento de cliente,Recebimento de cliente - operação 285,2937.86,Banco A,Não
+MB000286,2026-05-10,Saída,Transferência,transferência - operação 286,258.02,banco c,Sim
+MB000287,2026-04-19,Entrada,Energia,Energia - operação 287,7678.41,Banco C,Sim
+MB000288,2026-06-04,Saída,Outros,Outros - operação 288,6742.21,Banco B,Sim
+MB000289,2026-08-05,Saída,Impostos,Impostos - operação 289,2054.51,Banco A,Sim
+MB000290,2026-05-17,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 290,2749.45,Banco B,Não
+MB000291,2026-03-08,Entrada,Outros,Outros - operação 291,14640.39,Banco C,Sim
+MB000292,2026-04-22,Entrada,Transferência,Transferência - operação 292,5106.77,Banco A,Sim
+MB000293,2026-04-28,Saída,Recebimento de cliente,Recebimento de cliente - operação 293,16010.53,Banco C,Sim
+MB000294,2026-03-06,Saída,Impostos,Impostos - operação 294,12166.18,Banco A,Sim
+MB000295,2026-03-10,Entrada,Energia,Energia - operação 295,6456.09,Banco A,Sim
+MB000296,2026-03-25,Entrada,Recebimento de cliente,Recebimento de cliente - operação 296,10744.23,NAO INFORMADO,Sim
+MB000297,2026-05-17,Saída,Aluguel,Aluguel - operação 297,3195.44,Banco C,Sim
+MB000298,2026-02-02,Entrada,Transferência,Transferência - operação 298,7788.25,Banco B,Sim
+MB000299,2026-04-28,Saída,Aluguel,Aluguel - operação 299,16542.01,Banco C,Sim
+MB000300,2026-05-26,Saída,NAO INFORMADO,NAO INFORMADO,1423.82,Banco B,Sim
+MB000301,2026-02-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 301,6905.34,Banco C,Sim
+MB000302,2026-03-28,Entrada,Tarifa bancária,Tarifa bancária - operação 302,7243.28,Banco A,Sim
+MB000303,2026-07-04,Entrada,Tarifa bancária,Tarifa bancária - operação 303,17374.62,Banco A,Não
+MB000304,2026-03-08,Entrada,Outros,Outros - operação 304,9727.88,Banco A,Sim
+MB000305,2026-04-06,Saída,Transferência,Transferência - operação 305,3913.01,Banco B,Sim
+MB000306,2026-07-11,Entrada,Energia,Energia - operação 306,9053.06,Banco A,Não
+MB000307,2026-04-13,Entrada,Energia,Energia - operação 307,4944.6,NAO INFORMADO,Sim
+MB000308,2026-01-05,Saída,Salário,Salário - operação 308,4982.1,Banco B,Não
+MB000309,2026-07-22,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 309,4022.76,Banco A,Sim
+MB000310,2026-02-26,Entrada,Energia,Energia - operação 310,13120.54,Banco C,Sim
+MB000311,2026-05-31,Saída,Impostos,Impostos - operação 311,0.0,Banco B,Sim
+MB000312,2026-01-04,Saída,Impostos,Impostos - operação 312,5787.59,Banco B,Sim
+MB000313,2026-04-29,NAO INFORMADO,Aluguel,Aluguel - operação 313,9603.71,Banco A,Sim
+MB000314,2026-03-07,Saída,Recebimento de cliente,Recebimento de cliente - operação 314,11909.54,Banco C,Sim
+MB000315,2026-06-11,Saída,Outros,Outros - operação 315,17729.8,Banco A,Sim
+MB000316,2026-07-11,Saída,Impostos,Impostos - operação 316,5507.39,Banco B,Sim
+MB000317,2026-06-22,Saída,Recebimento de cliente,NAO INFORMADO,2848.41,Banco C,Sim
+MB000318,2026-06-09,Saída,Tarifa bancária,Tarifa bancária - operação 318,0.0,Banco A,Sim
+MB000319,2026-05-23,Saída,Aluguel,Aluguel - operação 319,6786.35,Banco C,Sim
+MB000320,2026-04-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 320,1790.79,Banco A,Sim
+MB000321,2026-01-29,Saída,Energia,Energia - operação 321,3256.27,Banco A,Sim
+MB000322,2026-05-21,Saída,Impostos,Impostos - operação 322,13535.49,Banco B,Não
+MB000323,2026-03-13,Saída,Impostos,Impostos - operação 323,11363.45,Banco C,Sim
+MB000324,2026-05-09,Saída,Outros,Outros - operação 324,7089.51,Banco B,NAO INFORMADO
+MB000325,2026-07-13,Saída,Energia,NAO INFORMADO,14879.18,Banco B,Sim
+MB000326,2026-08-12,Entrada,Tarifa bancária,Tarifa bancária - operação 326,5226.92,Banco C,Sim
+MB000327,2026-07-15,Saída,Salário,Salário - operação 327,12316.16,Banco A,Sim
+MB000328,2026-05-29,Saída,Tarifa bancária,Tarifa bancária - operação 328,7414.77,Banco C,Sim
+MB000329,2026-06-08,Entrada,Salário,Salário - operação 329,10994.22,Banco C,Sim
+MB000330,2026-06-03,Saída,Tarifa bancária,Tarifa bancária - operação 330,17021.53,Banco B,Não
+MB000331,2026-03-05,Entrada,Transferência,Transferência - operação 331,12334.32,Banco B,Sim
+MB000332,2026-07-10,Saída,Tarifa bancária,Tarifa bancária - operação 332,9959.43,Banco A,Sim
+MB000333,2026-04-28,Saída,NAO INFORMADO,Aluguel - operação 333,3195.04,Banco C,Sim
+MB000334,2026-03-24,Entrada,Energia,Energia - operação 334,1213.39,Banco A,Sim
+MB000335,2026-05-28,Saída,Transferência,Transferência - operação 335,4448.59,Banco C,Sim
+MB000336,2026-03-03,Entrada,Transferência,Transferência - operação 336,9028.86,Banco A,Não
+MB000337,2026-08-03,Saída,Salário,Salário - operação 337,4445.3,Banco C,Sim
+MB000338,2026-01-02,Entrada,Tarifa bancária,Tarifa bancária - operação 338,15613.78,NAO INFORMADO,Sim
+MB000339,2026-01-19,Saída,Energia,Energia - operação 339,15906.26,Banco C,Sim
+MB000340,2026-07-03,Saída,Outros,Outros - operação 340,12880.02,NAO INFORMADO,Sim
+MB000341,2026-07-31,Entrada,Energia,Energia - operação 341,14619.34,Banco C,Sim
+MB000342,2026-04-04,Saída,Outros,Outros - operação 342,11345.36,Banco B,Sim
+MB000343,2026-07-21,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 343,2670.41,Banco B,Não
+MB000344,2026-07-12,Entrada,Salário,Salário - operação 344,6628.04,Banco C,Sim
+MB000345,2026-02-06,Entrada,Transferência,Transferência - operação 345,3821.03,Banco A,Sim
+MB000346,2026-06-14,Entrada,Transferência,Transferência - operação 346,16190.56,Banco B,Sim
+MB000347,2026-07-13,Entrada,Impostos,Impostos - operação 347,5350.49,Banco B,Sim
+MB000348,2026-07-21,Saída,energia,Energia - operação 348,10249.75,Banco C,Sim
+MB000349,2026-07-14,Entrada,Salário,Salário - operação 349,9415.94,Banco A,Sim
+MB000350,2026-08-14,Saída,Impostos,Impostos - operação 350,12862.77,Banco B,Sim
+MB000351,2026-05-26,Entrada,Transferência,Transferência - operação 351,12849.77,Banco C,Sim
+MB000352,2026-02-09,Entrada,Salário,Salário - operação 352,10953.72,Banco B,Sim
+MB000353,2026-06-13,Entrada,recebimento de cliente,Recebimento de cliente - operação 353,15324.0,Banco C,Sim
+MB000354,2026-02-07,Saída,Recebimento de cliente,Recebimento de cliente - operação 354,4706.61,Banco C,Sim
+MB000355,2026-07-10,Saída,Tarifa bancária,Tarifa bancária - operação 355,8611.69,Banco A,Sim
+MB000356,2026-06-14,Entrada,Outros,Outros - operação 356,5691.62,Banco B,Sim
+MB000357,2026-10-08,Saída,Salário,Salário - operação 357,15680.54,Banco B,Sim
+MB000358,2026-05-04,Saída,Recebimento de cliente,Recebimento de cliente - operação 358,12053.97,Banco A,Sim
+MB000359,2026-02-27,Entrada,Aluguel,Aluguel - operação 359,4076.36,Banco B,Não
+MB000360,2026-07-19,Entrada,Aluguel,Aluguel - operação 360,6449.2,Banco B,Não
+MB000361,2026-06-13,Entrada,Outros,Outros - operação 361,16171.52,Banco C,Sim
+MB000362,2026-04-04,Entrada,Tarifa bancária,Tarifa bancária - operação 362,0.0,Banco B,Sim
+MB000363,2026-01-18,Entrada,Outros,Outros - operação 363,17311.73,Banco C,Sim
+MB000364,2026-08-12,Entrada,Recebimento de cliente,Recebimento de cliente - operação 364,8067.06,Banco C,Sim
+MB000365,2026-03-04,Entrada,Salário,Salário - operação 365,12430.1,Banco C,NAO INFORMADO
+MB000366,2026-02-28,Saída,Salário,Salário - operação 366,772.18,Banco C,Sim
+MB000367,2026-05-22,Entrada,NAO INFORMADO,Pagamento fornecedor - operação 367,13388.83,Banco C,Sim
+MB000368,2026-08-20,Entrada,Outros,Outros - operação 368,5484.56,Banco A,Sim
+MB000369,2026-03-04,Saída,Transferência,Transferência - operação 369,8383.67,Banco C,Sim
+MB000370,2026-03-23,Entrada,Aluguel,Aluguel - operação 370,8635.47,Banco B,Sim
+MB000371,2026-05-02,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 371,9785.52,Banco A,Não
+MB000372,2026-05-05,NAO INFORMADO,Recebimento de cliente,Recebimento de cliente - operação 372,10491.76,Banco A,Sim
+MB000373,2026-07-19,Entrada,Transferência,Transferência - operação 373,0.0,Banco B,Sim
+MB000374,2026-06-03,Entrada,Transferência,Transferência - operação 374,11378.75,Banco B,Sim
+MB000375,2026-05-04,Saída,Energia,Energia - operação 375,17128.27,Banco B,Sim
+MB000376,2026-08-11,Saída,Aluguel,Aluguel - operação 376,6173.5,Banco C,Sim
+MB000377,2026-05-09,Entrada,Transferência,Transferência - operação 377,2050.89,Banco A,Sim
+MB000378,2026-01-02,Saída,Outros,Outros - operação 378,8495.59,Banco A,NAO INFORMADO
+MB000379,2026-01-17,Saída,Energia,Energia - operação 379,1747.5,Banco B,Sim
+MB000380,2026-06-13,Saída,Salário,Salário - operação 380,3525.04,Banco A,Sim
+MB000381,2026-02-24,Entrada,NAO INFORMADO,Outros - operação 381,5531.64,Banco C,Sim
+MB000382,2026-01-27,Entrada,Aluguel,Aluguel - operação 382,10299.6,Banco A,Sim
+MB000383,2026-02-10,Entrada,Tarifa bancária,Tarifa bancária - operação 383,14155.31,Banco A,Não
+MB000384,2026-06-19,Entrada,Impostos,Impostos - operação 384,17222.89,Banco B,Não
+MB000385,2026-07-21,Saída,Energia,Energia - operação 385,4155.59,Banco B,Sim
+MB000386,2026-08-08,Entrada,Impostos,Impostos - operação 386,2652.51,Banco B,Sim
+MB000387,2026-08-01,Saída,Transferência,Transferência - operação 387,0.0,Banco C,Sim
+MB000388,2026-07-15,Saída,Recebimento de cliente,Recebimento de cliente - operação 388,13731.9,Banco B,NAO INFORMADO
+MB000389,2026-04-15,Saída,Salário,Salário - operação 389,17550.99,Banco B,Sim
+MB000390,2026-07-29,Entrada,Aluguel,Aluguel - operação 390,11933.88,Banco B,Sim
+MB000391,2026-08-02,Saída,Recebimento de cliente,Recebimento de cliente - operação 391,5827.13,Banco B,Sim
+MB000392,2026-05-23,Saída,Aluguel,Aluguel - operação 392,14364.67,Banco C,Sim
+MB000393,2026-04-23,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 393,1385.96,Banco A,Sim
+MB000394,2026-07-05,Saída,Transferência,Transferência - operação 394,17139.21,Banco A,Sim
+MB000395,2026-06-26,Saída,Aluguel,Aluguel - operação 395,5078.56,Banco C,não
+MB000396,2026-04-07,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 396,1057.26,Banco B,Sim
+MB000397,2026-05-18,Saída,transferência,Transferência - operação 397,16628.73,Banco A,Sim
+MB000398,2026-02-04,Entrada,Impostos,Impostos - operação 398,17590.36,Banco C,Sim
+MB000399,2026-07-31,Entrada,Salário,Salário - operação 399,10637.06,Banco C,Sim
+MB000400,2026-05-24,NAO INFORMADO,Transferência,Transferência - operação 400,4451.82,Banco C,Sim
+MB000401,2026-07-15,Entrada,Outros,Outros - operação 401,9581.94,Banco B,Sim
+MB000402,2026-02-05,Entrada,Impostos,Impostos - operação 402,17231.74,Banco B,Sim
+MB000403,2026-07-11,Entrada,Salário,Salário - operação 403,5816.75,Banco A,Sim
+MB000404,2026-04-03,Saída,Aluguel,Aluguel - operação 404,12214.15,Banco C,Sim
+MB000405,2026-03-07,Saída,Recebimento de cliente,Recebimento de cliente - operação 405,2567.85,Banco C,Sim
+MB000406,2026-04-20,Saída,Transferência,Transferência - operação 406,14375.84,Banco C,Sim
+MB000407,2026-05-12,Saída,Recebimento de cliente,Recebimento de cliente - operação 407,10204.58,NAO INFORMADO,Sim
+MB000408,2026-08-12,Saída,Outros,Outros - operação 408,8881.57,Banco C,Sim
+MB000409,2026-06-12,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 409,10197.26,Banco C,Sim
+MB000410,2026-05-17,Entrada,Outros,Outros - operação 410,15241.07,Banco A,NAO INFORMADO
+MB000411,2026-04-30,Saída,Aluguel,Aluguel - operação 411,13546.74,Banco C,sim
+MB000412,2026-07-29,Entrada,Transferência,Transferência - operação 412,8150.63,Banco C,Sim
+MB000413,2026-06-16,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 413,3311.05,Banco C,Sim
+MB000414,2026-04-27,Saída,Tarifa bancária,Tarifa bancária - operação 414,16014.68,Banco B,Não
+MB000415,2026-03-17,Entrada,Tarifa bancária,Tarifa bancária - operação 415,388.75,Banco A,NAO INFORMADO
+MB000416,2026-04-20,Entrada,Energia,Energia - operação 416,15407.56,Banco C,Sim
+MB000417,2026-05-17,Saída,Aluguel,Aluguel - operação 417,13870.2,Banco C,Sim
+MB000418,2026-08-17,Saída,Salário,Salário - operação 418,3439.81,Banco A,Sim
+MB000419,2026-03-20,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 419,520.73,NAO INFORMADO,Sim
+MB000420,2026-07-19,Entrada,Outros,Outros - operação 420,6305.93,Banco A,Sim
+MB000421,2026-08-11,Saída,Aluguel,Aluguel - operação 421,11864.1,Banco A,Sim
+MB000422,2026-02-11,Saída,Energia,Energia - operação 422,4231.97,Banco A,Sim
+MB000423,2026-01-07,Entrada,Transferência,Transferência - operação 423,2259.83,Banco B,Sim
+MB000424,2026-04-24,Entrada,Tarifa bancária,Tarifa bancária - operação 424,933.4,Banco B,Sim
+MB000425,2026-02-20,Entrada,Tarifa bancária,Tarifa bancária - operação 425,10644.4,Banco A,Sim
+MB000426,2026-02-14,Saída,Outros,NAO INFORMADO,2234.58,Banco A,Sim
+MB000427,2026-05-06,Saída,Impostos,Impostos - operação 427,13506.8,Banco B,Sim
+MB000428,2026-02-18,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 428,14406.25,Banco B,Sim
+MB000429,2026-03-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 429,17010.9,Banco A,Sim
+MB000430,2026-04-08,Saída,Tarifa bancária,Tarifa bancária - operação 430,17310.16,Banco A,Sim
+MB000431,2026-04-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 431,7842.97,Banco C,Sim
+MB000432,2026-02-28,Entrada,Tarifa bancária,Tarifa bancária - operação 432,15773.16,Banco A,Sim
+MB000433,2026-07-06,Saída,Recebimento de cliente,Recebimento de cliente - operação 433,2576.21,Banco A,Sim
+MB000434,2026-05-25,Entrada,Salário,Salário - operação 434,9359.27,Banco A,Sim
+MB000435,2026-07-15,Entrada,Recebimento de cliente,Recebimento de cliente - operação 435,10751.87,Banco A,Sim
+MB000436,2026-04-06,Saída,Tarifa bancária,Tarifa bancária - operação 436,14827.35,Banco B,Sim
+MB000437,2026-02-14,Saída,Salário,Salário - operação 437,13368.3,Banco C,Sim
+MB000438,2026-04-04,Entrada,Salário,Salário - operação 438,588.14,Banco A,Sim
+MB000439,2026-04-14,Saída,Energia,Energia - operação 439,11213.35,Banco A,Sim
+MB000440,2026-03-26,Entrada,Transferência,Transferência - operação 440,664.3,Banco A,Sim
+MB000441,2026-01-12,Saída,Tarifa bancária,Tarifa bancária - operação 441,13736.92,Banco C,Sim
+MB000442,2026-02-13,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 442,318.15,Banco A,Sim
+MB000443,2026-04-18,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 443,17438.71,Banco B,Sim
+MB000444,2026-08-08,Saída,Transferência,Transferência - operação 444,2462.58,Banco C,Sim
+MB000445,2026-03-21,Saída,Transferência,Transferência - operação 445,16196.9,Banco B,Sim
+MB000446,2026-03-24,Saída,Impostos,Impostos - operação 446,17226.45,Banco C,Sim
+MB000447,2026-05-03,Saída,Aluguel,Aluguel - operação 447,2308.7,Banco C,Sim
+MB000448,2026-07-26,Entrada,Aluguel,Aluguel - operação 448,11882.82,NAO INFORMADO,Sim
+MB000449,2026-07-03,Saída,Energia,Energia - operação 449,15970.18,Banco A,Sim
+MB000450,2026-02-27,Entrada,Salário,Salário - operação 450,13154.04,Banco B,Sim
+MB000451,2026-07-01,Saída,Outros,Outros - operação 451,9328.43,Banco B,Sim
+MB000452,2026-03-25,Saída,Impostos,Impostos - operação 452,11918.57,Banco C,Sim
+MB000453,2026-07-11,Saída,Recebimento de cliente,Recebimento de cliente - operação 453,14305.8,Banco A,Sim
+MB000454,2026-02-06,Entrada,Aluguel,Aluguel - operação 454,2955.84,Banco B,Sim
+MB000455,2026-05-27,Saída,Transferência,Transferência - operação 455,0.0,Banco A,Não
+MB000456,2026-04-14,Saída,Aluguel,Aluguel - operação 456,8184.83,Banco B,Sim
+MB000457,2026-04-23,Entrada,Energia,Energia - operação 457,11815.52,Banco C,Sim
+MB000458,2026-03-28,NAO INFORMADO,Energia,Energia - operação 458,6170.64,Banco B,Sim
+MB000459,2026-04-27,Entrada,Impostos,Impostos - operação 459,13750.68,Banco B,Sim
+MB000460,2026-07-20,Saída,Tarifa bancária,Tarifa bancária - operação 460,11579.15,Banco C,Sim
+MB000461,2026-01-25,Entrada,Transferência,transferência - operação 461,14949.9,Banco A,Sim
+MB000462,2026-07-02,Entrada,Salário,Salário - operação 462,15725.86,Banco B,Sim
+MB000463,2026-04-22,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 463,17394.95,Banco C,Sim
+MB000464,2026-04-12,Saída,Aluguel,Aluguel - operação 464,2593.67,Banco C,Sim
+MB000465,2026-07-18,Entrada,Aluguel,Aluguel - operação 465,13214.75,NAO INFORMADO,Sim
+MB000466,2026-06-03,NAO INFORMADO,Outros,Outros - operação 466,9474.56,Banco C,Sim
+MB000467,2026-05-19,Entrada,Outros,Outros - operação 467,3043.22,Banco A,Sim
+MB000468,2026-06-24,Entrada,Aluguel,Aluguel - operação 468,15186.14,Banco C,Sim
+MB000469,2026-05-19,Saída,Tarifa bancária,Tarifa bancária - operação 469,15456.4,Banco B,Sim
+MB000470,2026-04-13,Entrada,Tarifa bancária,Tarifa bancária - operação 470,16222.17,Banco B,Sim
+MB000471,2026-04-30,NAO INFORMADO,Salário,Salário - operação 471,13001.78,Banco B,Sim
+MB000472,2026-01-20,Entrada,Outros,Outros - operação 472,12042.76,Banco A,Não
+MB000473,2026-06-02,Entrada,Recebimento de cliente,Recebimento de cliente - operação 473,13605.29,Banco A,Sim
+MB000474,2026-05-04,Entrada,Aluguel,Aluguel - operação 474,7072.73,Banco A,Sim
+MB000475,2026-04-11,Saída,Aluguel,Aluguel - operação 475,4511.89,Banco B,Sim
+MB000476,2026-02-27,Entrada,Salário,Salário - operação 476,16072.86,Banco A,Não
+MB000477,2026-06-22,Entrada,Aluguel,Aluguel - operação 477,8008.7,Banco C,Sim
+MB000478,2026-07-14,Saída,Recebimento de cliente,NAO INFORMADO,11479.78,Banco C,Sim
+MB000479,2026-05-15,Entrada,Transferência,Transferência - operação 479,4217.65,Banco B,Sim
+MB000480,2026-07-30,Entrada,Outros,Outros - operação 480,13385.27,Banco B,Sim
+MB000481,2026-01-19,Saída,Energia,Energia - operação 481,17093.31,banco a,Sim
+MB000482,2026-08-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 482,11302.83,Banco B,Não
+MB000483,2026-02-13,Saída,Energia,Energia - operação 483,4082.17,Banco A,Sim
+MB000484,2026-07-07,Saída,Impostos,Impostos - operação 484,4381.2,Banco C,Sim
+MB000485,2026-08-03,Saída,NAO INFORMADO,Tarifa bancária - operação 485,1066.91,Banco A,Sim
+MB000486,2026-08-04,Entrada,Energia,Energia - operação 486,11542.76,Banco B,Sim
+MB000487,2026-06-20,Entrada,Impostos,Impostos - operação 487,1541.53,Banco A,Sim
+MB000488,2026-03-04,NAO INFORMADO,Transferência,Transferência - operação 488,4023.92,Banco B,Sim
+MB000489,2026-01-27,Saída,Outros,outros - operação 489,10939.2,Banco C,Sim
+MB000490,2026-06-05,Saída,Tarifa bancária,Tarifa bancária - operação 490,805.72,Banco A,Não
+MB000491,2026-08-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 491,2158.65,Banco A,Sim
+MB000492,2026-05-29,Saída,Tarifa bancária,Tarifa bancária - operação 492,14684.34,Banco C,Sim
+MB000493,2026-03-30,Saída,Transferência,Transferência - operação 493,10341.54,Banco C,Sim
+MB000494,2026-04-13,Saída,Recebimento de cliente,Recebimento de cliente - operação 494,3927.91,Banco A,Sim
+MB000495,2026-06-11,Saída,Pagamento fornecedor,NAO INFORMADO,5296.37,Banco B,Sim
+MB000496,2026-07-06,Saída,Energia,Energia - operação 496,6486.67,Banco C,Sim
+MB000497,2026-04-01,Entrada,Energia,Energia - operação 497,8055.83,Banco A,Sim
+MB000498,2026-04-28,Entrada,Salário,Salário - operação 498,3808.39,Banco C,Sim
+MB000499,2026-07-09,Saída,Impostos,Impostos - operação 499,14068.38,Banco A,Sim
+MB000500,2026-08-08,Entrada,Impostos,Impostos - operação 500,6364.89,Banco C,NAO INFORMADO
+MB000501,2026-03-23,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 501,16459.38,Banco A,Sim
+MB000502,2026-03-22,Saída,Transferência,Transferência - operação 502,11528.58,Banco B,Sim
+MB000503,2026-03-09,Saída,Impostos,Impostos - operação 503,0.0,Banco B,Sim
+MB000504,2026-07-13,Entrada,Salário,Salário - operação 504,5843.54,Banco A,Sim
+MB000505,2026-05-29,Entrada,Outros,Outros - operação 505,12619.1,Banco C,Sim
+MB000506,2026-07-13,Saída,Outros,Outros - operação 506,3243.45,Banco C,Sim
+MB000507,2026-02-20,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 507,12824.4,Banco C,Sim
+MB000508,2026-08-07,Entrada,Salário,Salário - operação 508,12900.19,Banco C,Sim
+MB000509,2026-04-12,Entrada,Tarifa bancária,Tarifa bancária - operação 509,1910.09,Banco C,Sim
+MB000510,2026-06-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 510,5862.86,Banco A,Sim
+MB000511,2026-07-31,Entrada,Aluguel,Aluguel - operação 511,9886.37,Banco C,Sim
+MB000512,2026-01-07,Saída,Aluguel,Aluguel - operação 512,15006.8,Banco A,Sim
+MB000513,2026-08-13,entrada,Transferência,Transferência - operação 513,0.0,Banco A,Sim
+MB000514,2026-01-04,Entrada,Aluguel,Aluguel - operação 514,17364.4,NAO INFORMADO,Sim
+MB000515,2026-08-03,Saída,Tarifa bancária,Tarifa bancária - operação 515,10035.99,Banco C,Sim
+MB000516,2026-04-16,Entrada,Outros,Outros - operação 516,10477.08,banco c,Não
+MB000517,2026-08-16,Saída,Energia,Energia - operação 517,12736.09,Banco B,Sim
+MB000518,2026-04-21,Saída,Impostos,Impostos - operação 518,16205.95,Banco A,Sim
+MB000519,2026-05-19,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 519,17247.74,Banco A,Sim
+MB000520,2026-09-08,Entrada,outros,Outros - operação 520,10442.3,Banco A,Sim
+MB000521,2026-07-01,Saída,Outros,Outros - operação 521,5677.05,Banco C,Sim
+MB000522,2026-07-04,Saída,Outros,NAO INFORMADO,14788.34,Banco A,Sim
+MB000523,2026-03-10,Saída,Recebimento de cliente,Recebimento de cliente - operação 523,8311.29,Banco B,Sim
+MB000524,2026-06-01,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 524,17159.29,Banco A,Sim
+MB000525,2026-05-24,Saída,Outros,Outros - operação 525,11722.48,banco b,Sim
+MB000526,2026-08-11,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 526,12292.03,Banco A,Sim
+MB000527,2026-05-26,Entrada,Recebimento de cliente,Recebimento de cliente - operação 527,12859.34,Banco B,Sim
+MB000528,2026-06-30,Entrada,Tarifa bancária,Tarifa bancária - operação 528,3912.91,Banco B,Sim
+MB000529,2026-05-18,NAO INFORMADO,Impostos,Impostos - operação 529,4224.53,Banco C,Sim
+MB000530,2026-02-06,NAO INFORMADO,Impostos,Impostos - operação 530,15536.08,Banco C,Sim
+MB000531,2026-07-02,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 531,13954.45,Banco A,Não
+MB000532,2026-01-17,Saída,Tarifa bancária,Tarifa bancária - operação 532,13160.33,Banco C,Sim
+MB000533,2026-03-05,Saída,Salário,Salário - operação 533,15051.52,Banco A,Sim
+MB000534,2026-07-06,Entrada,Impostos,Impostos - operação 534,1649.45,Banco B,Não
+MB000535,2026-06-29,Saída,Tarifa bancária,Tarifa bancária - operação 535,6894.17,Banco B,Sim
+MB000536,2026-08-05,Saída,Salário,Salário - operação 536,0.0,Banco B,Sim
+MB000537,2026-07-01,Saída,Energia,Energia - operação 537,9019.29,Banco A,Sim
+MB000538,2026-04-13,Entrada,Aluguel,Aluguel - operação 538,6354.05,Banco C,Sim
+MB000539,2026-03-28,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 539,9453.42,Banco A,Não
+MB000540,2026-01-16,Saída,Recebimento de cliente,Recebimento de cliente - operação 540,12304.65,Banco A,Sim
+MB000541,2026-01-01,Saída,Recebimento de cliente,Recebimento de cliente - operação 541,133.67,Banco B,Sim
+MB000542,2026-01-08,Saída,Impostos,Impostos - operação 542,15475.49,Banco A,Sim
+MB000543,2026-06-12,Saída,Transferência,Transferência - operação 543,3313.07,Banco A,Sim
+MB000544,2026-01-25,Entrada,Impostos,Impostos - operação 544,10353.03,Banco B,Sim
+MB000545,2026-05-10,Entrada,Transferência,Transferência - operação 545,594.63,Banco A,Sim
+MB000546,2026-08-16,Entrada,Energia,Energia - operação 546,16833.83,Banco A,Sim
+MB000547,2026-06-24,Entrada,Outros,Outros - operação 547,3054.57,Banco A,Sim
+MB000548,2026-02-19,Saída,NAO INFORMADO,Salário - operação 548,17952.29,Banco B,Sim
+MB000549,2026-06-18,saída,Tarifa bancária,Tarifa bancária - operação 549,14123.92,Banco A,Sim
+MB000550,2026-01-17,Saída,Aluguel,Aluguel - operação 550,6614.2,Banco A,Sim
+MB000551,2026-02-18,Saída,Recebimento de cliente,Recebimento de cliente - operação 551,6481.87,Banco B,Não
+MB000552,2026-01-26,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 552,11960.05,Banco B,Sim
+MB000553,2026-05-25,Saída,Outros,Outros - operação 553,9414.03,Banco C,Sim
+MB000554,2026-03-14,Saída,Salário,Salário - operação 554,8089.89,Banco A,Sim
+MB000555,2026-06-10,Saída,Tarifa bancária,Tarifa bancária - operação 555,0.0,Banco A,Sim
+MB000556,2026-01-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 556,5821.19,Banco B,Não
+MB000557,2026-04-10,Entrada,Transferência,Transferência - operação 557,17861.56,Banco B,Sim
+MB000558,2026-05-16,Entrada,Aluguel,Aluguel - operação 558,17044.7,Banco B,Não
+MB000559,2026-07-11,Saída,Outros,Outros - operação 559,3161.79,Banco B,Sim
+MB000560,2026-05-17,Entrada,Recebimento de cliente,Recebimento de cliente - operação 560,17403.49,Banco B,Sim
+MB000561,2026-04-01,Saída,Recebimento de cliente,Recebimento de cliente - operação 561,14836.24,Banco C,Sim
+MB000562,2026-07-09,Saída,Outros,Outros - operação 562,15293.51,Banco C,Sim
+MB000563,2026-06-24,Entrada,Aluguel,Aluguel - operação 563,1820.78,Banco A,Sim
+MB000564,2026-07-02,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 564,12866.92,Banco B,Sim
+MB000565,2026-05-27,Saída,Recebimento de cliente,Recebimento de cliente - operação 565,861.95,Banco B,Sim
+MB000566,2026-08-19,Entrada,Energia,Energia - operação 566,135.06,Banco A,Sim
+MB000567,2026-02-15,Saída,Aluguel,Aluguel - operação 567,6723.52,Banco B,Sim
+MB000568,2026-02-09,Entrada,Aluguel,Aluguel - operação 568,11210.66,Banco B,Sim
+MB000569,2026-06-24,Saída,Energia,Energia - operação 569,3727.53,Banco C,Sim
+MB000570,2026-04-15,Entrada,Tarifa bancária,Tarifa bancária - operação 570,14832.81,Banco B,Sim
+MB000571,2026-08-04,NAO INFORMADO,Transferência,Transferência - operação 571,4598.99,Banco A,Sim
+MB000572,2026-01-11,saída,Salário,Salário - operação 572,11950.19,Banco A,Sim
+MB000573,2026-06-13,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 573,0.0,Banco B,Sim
+MB000574,2026-02-16,Saída,Impostos,Impostos - operação 574,3054.23,Banco C,Sim
+MB000575,2026-06-24,Saída,Energia,Energia - operação 575,9675.87,Banco B,Não
+MB000576,2026-03-08,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 576,7138.57,Banco A,Sim
+MB000577,2026-05-23,Saída,Aluguel,Aluguel - operação 577,2331.71,Banco A,Sim
+MB000578,2026-05-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 578,4154.18,Banco B,Sim
+MB000579,2026-01-22,Entrada,Aluguel,Aluguel - operação 579,7875.28,Banco B,Sim
+MB000580,2026-07-09,Entrada,Transferência,Transferência - operação 580,10766.18,Banco A,Sim
+MB000581,2026-07-16,Entrada,aluguel,Aluguel - operação 581,13062.14,Banco A,Não
+MB000582,2026-01-04,Entrada,Impostos,Impostos - operação 582,15477.8,Banco B,Sim
+MB000583,2026-03-31,Saída,Aluguel,Aluguel - operação 583,16233.05,Banco A,Sim
+MB000584,2026-04-08,Entrada,Energia,Energia - operação 584,9125.42,Banco A,Sim
+MB000585,2026-06-10,Entrada,Impostos,Impostos - operação 585,11861.32,Banco B,Sim
+MB000586,2026-08-12,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 586,15189.43,Banco C,Sim
+MB000587,2026-03-15,Saída,Salário,Salário - operação 587,2623.37,Banco B,Sim
+MB000588,2026-01-29,Entrada,Tarifa bancária,Tarifa bancária - operação 588,9348.95,Banco A,Não
+MB000589,2026-07-04,Entrada,Impostos,Impostos - operação 589,6698.18,Banco A,Sim
+MB000590,2026-06-25,Entrada,Recebimento de cliente,Recebimento de cliente - operação 590,6892.78,Banco C,Sim
+MB000591,2026-07-28,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 591,15433.2,Banco C,Sim
+MB000592,2026-05-25,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 592,0.0,Banco B,Não
+MB000593,2026-06-15,Saída,Energia,Energia - operação 593,12356.7,banco b,Sim
+MB000594,2026-07-11,Entrada,Transferência,Transferência - operação 594,11046.32,Banco B,Sim
+MB000595,2026-05-03,Entrada,Transferência,Transferência - operação 595,9679.36,Banco B,Sim
+MB000596,2026-06-02,Entrada,Salário,Salário - operação 596,17336.56,Banco B,Sim
+MB000597,2026-08-14,Entrada,Impostos,Impostos - operação 597,13333.1,Banco B,Sim
+MB000598,2026-02-06,Entrada,Transferência,Transferência - operação 598,7416.17,Banco C,Sim
+MB000599,2026-04-13,Entrada,Impostos,Impostos - operação 599,0.0,Banco B,Sim
+MB000600,2026-08-15,Saída,Transferência,Transferência - operação 600,13215.41,Banco B,Sim
+MB000601,2026-04-29,Saída,Impostos,impostos - operação 601,5901.9,Banco B,Sim
+MB000602,2026-07-05,Saída,NAO INFORMADO,Aluguel - operação 602,4465.83,Banco C,Sim
+MB000603,2026-05-26,Entrada,Impostos,Impostos - operação 603,16211.36,Banco C,Sim
+MB000604,2026-04-06,Entrada,Aluguel,Aluguel - operação 604,7101.29,Banco B,Sim
+MB000605,2026-05-19,Saída,Energia,Energia - operação 605,16288.94,Banco C,Sim
+MB000606,2026-01-14,Entrada,Aluguel,Aluguel - operação 606,6111.41,Banco A,Sim
+MB000607,2026-05-13,Saída,Salário,Salário - operação 607,16980.43,Banco A,Sim
+MB000608,2026-04-09,Saída,Salário,Salário - operação 608,4956.09,NAO INFORMADO,Não
+MB000609,2026-07-16,Entrada,Tarifa bancária,Tarifa bancária - operação 609,10372.49,Banco A,Sim
+MB000610,2026-04-16,Saída,Transferência,Transferência - operação 610,4460.29,Banco C,Sim
+MB000611,2026-07-15,Saída,Impostos,Impostos - operação 611,11005.93,Banco C,Sim
+MB000612,2026-08-07,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 612,14175.97,Banco A,Sim
+MB000613,2026-01-03,Entrada,Impostos,Impostos - operação 613,15354.19,banco b,Sim
+MB000614,2026-02-21,Entrada,Aluguel,Aluguel - operação 614,5570.74,NAO INFORMADO,Sim
+MB000615,2026-06-09,Saída,Transferência,Transferência - operação 615,8577.82,Banco C,Sim
+MB000616,2026-03-16,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 616,14451.93,Banco A,Sim
+MB000617,2026-02-11,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 617,9604.88,Banco C,NAO INFORMADO
+MB000618,2026-02-10,Saída,Outros,Outros - operação 618,11334.85,Banco C,Sim
+MB000619,2026-06-26,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 619,11966.45,Banco A,Sim
+MB000620,2026-01-25,Entrada,Salário,Salário - operação 620,15850.16,Banco B,Sim
+MB000621,2026-05-03,Entrada,Recebimento de cliente,Recebimento de cliente - operação 621,10571.85,Banco B,Sim
+MB000622,2026-05-30,Saída,Salário,Salário - operação 622,8079.63,Banco A,Sim
+MB000623,2026-06-21,Saída,Impostos,Impostos - operação 623,15946.59,Banco A,Sim
+MB000624,2026-01-18,Entrada,Salário,Salário - operação 624,11251.36,NAO INFORMADO,Sim
+MB000625,2026-02-08,Entrada,Aluguel,Aluguel - operação 625,17310.27,Banco B,Sim
+MB000626,2026-07-02,Entrada,Impostos,Impostos - operação 626,10870.49,Banco B,Sim
+MB000627,2026-06-09,Saída,Tarifa bancária,Tarifa bancária - operação 627,17851.05,Banco B,Sim
+MB000628,2026-02-19,Saída,Energia,NAO INFORMADO,17677.55,Banco A,Sim
+MB000629,2026-03-23,Entrada,Recebimento de cliente,Recebimento de cliente - operação 629,11706.82,Banco C,Sim
+MB000630,2026-03-09,Saída,Tarifa bancária,Tarifa bancária - operação 630,6108.45,Banco B,Sim
+MB000631,2026-06-18,Entrada,Impostos,Impostos - operação 631,9945.37,Banco A,Não
+MB000632,2026-01-03,Saída,Recebimento de cliente,Recebimento de cliente - operação 632,5483.65,NAO INFORMADO,Sim
+MB000633,2026-04-08,Saída,Recebimento de cliente,Recebimento de cliente - operação 633,12530.42,Banco B,Sim
+MB000634,2026-03-27,Saída,Outros,Outros - operação 634,15372.6,Banco B,Sim
+MB000635,2026-07-01,Saída,Salário,Salário - operação 635,16975.17,Banco C,Sim
+MB000636,2026-05-22,Entrada,Transferência,Transferência - operação 636,5105.46,Banco A,Sim
+MB000637,2026-06-21,Entrada,Impostos,Impostos - operação 637,15513.55,Banco A,Sim
+MB000638,2026-07-27,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 638,4411.15,Banco A,Sim
+MB000639,2026-01-17,Entrada,Aluguel,Aluguel - operação 639,14030.84,Banco A,Sim
+MB000640,2026-07-05,Entrada,Impostos,Impostos - operação 640,15669.36,Banco C,Sim
+MB000641,2026-09-02,Saída,Transferência,Transferência - operação 641,11376.5,Banco B,Sim
+MB000642,2026-06-06,Entrada,Recebimento de cliente,Recebimento de cliente - operação 642,12689.45,Banco A,Sim
+MB000643,2026-02-17,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 643,118.95,Banco C,Sim
+MB000644,2026-02-23,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 644,6994.87,Banco C,Sim
+MB000645,2026-02-19,Saída,Aluguel,Aluguel - operação 645,12762.87,Banco B,Não
+MB000646,2026-06-30,Entrada,NAO INFORMADO,Transferência - operação 646,5220.74,Banco C,Não
+MB000647,2026-08-10,Entrada,Transferência,Transferência - operação 647,3369.45,NAO INFORMADO,Sim
+MB000648,2026-02-15,Entrada,Energia,Energia - operação 648,2632.88,Banco C,Não
+MB000649,2026-02-18,Entrada,pagamento fornecedor,Pagamento fornecedor - operação 649,3428.16,Banco B,Sim
+MB000650,2026-02-11,Saída,Energia,Energia - operação 650,10847.89,Banco C,Sim
+MB000651,2026-02-25,Saída,Energia,Energia - operação 651,14849.21,Banco C,Sim
+MB000652,2026-05-16,Entrada,Energia,Energia - operação 652,5102.01,Banco A,Sim
+MB000653,2026-01-16,Entrada,Transferência,Transferência - operação 653,6228.81,Banco C,Sim
+MB000654,2026-06-08,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 654,12148.93,Banco C,Sim
+MB000655,2026-01-04,Entrada,Impostos,Impostos - operação 655,10607.09,Banco B,Não
+MB000656,2026-06-23,Entrada,Energia,Energia - operação 656,13102.32,Banco B,Sim
+MB000657,2026-04-02,Saída,Impostos,Impostos - operação 657,9019.52,Banco B,Sim
+MB000658,2026-05-20,Entrada,Aluguel,Aluguel - operação 658,10590.76,Banco A,Sim
+MB000659,2026-04-15,Saída,Transferência,Transferência - operação 659,5872.4,Banco B,Sim
+MB000660,2026-08-11,Saída,Transferência,Transferência - operação 660,2790.69,banco c,Sim
+MB000661,2026-04-18,Entrada,Salário,Salário - operação 661,14199.36,Banco B,Sim
+MB000662,2026-04-13,Saída,Recebimento de cliente,Recebimento de cliente - operação 662,7847.14,Banco C,Sim
+MB000663,2026-02-08,Saída,Salário,Salário - operação 663,3945.04,Banco A,Sim
+MB000664,2026-05-01,Entrada,Energia,Energia - operação 664,6104.81,Banco A,Sim
+MB000665,2026-04-11,Entrada,Energia,Energia - operação 665,14944.52,Banco C,Sim
+MB000666,2026-02-28,Entrada,Transferência,Transferência - operação 666,10942.51,Banco B,Sim
+MB000667,2026-04-22,Entrada,Transferência,Transferência - operação 667,17445.34,banco a,Sim
+MB000668,2026-01-28,Entrada,Impostos,Impostos - operação 668,12723.13,Banco C,Sim
+MB000669,2026-02-06,Entrada,Outros,Outros - operação 669,16982.92,Banco A,NAO INFORMADO
+MB000670,2026-05-06,Entrada,Energia,Energia - operação 670,11385.58,Banco B,Sim
+MB000671,2026-06-25,Saída,Tarifa bancária,Tarifa bancária - operação 671,11028.7,Banco C,Sim
+MB000672,2026-05-16,Entrada,Impostos,Impostos - operação 672,13059.38,Banco C,Sim
+MB000673,2026-04-05,Saída,Transferência,Transferência - operação 673,1183.09,Banco B,Sim
+MB000674,2026-04-17,Entrada,NAO INFORMADO,NAO INFORMADO,17005.15,Banco C,Sim
+MB000675,2026-08-12,Saída,Transferência,Transferência - operação 675,14173.17,Banco C,Sim
+MB000676,2026-05-28,Saída,Aluguel,Aluguel - operação 676,16238.31,Banco B,Não
+MB000677,2026-02-28,Saída,Aluguel,Aluguel - operação 677,14649.13,Banco A,Sim
+MB000678,2026-05-25,Saída,Recebimento de cliente,Recebimento de cliente - operação 678,5676.61,Banco A,Sim
+MB000679,2026-07-12,Entrada,Impostos,Impostos - operação 679,1509.47,Banco B,Sim
+MB000680,2026-06-04,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 680,8118.25,Banco A,Sim
+MB000681,2026-07-02,Entrada,Impostos,Impostos - operação 681,15267.52,Banco A,Sim
+MB000682,2026-03-05,Entrada,Recebimento de cliente,Recebimento de cliente - operação 682,5923.5,Banco C,sim
+MB000683,2026-05-24,entrada,Energia,Energia - operação 683,17222.18,Banco B,Sim
+MB000684,2026-06-04,Saída,Aluguel,Aluguel - operação 684,14843.25,Banco C,Sim
+MB000685,2026-06-02,Saída,Pagamento fornecedor,NAO INFORMADO,5356.37,Banco A,Sim
+MB000686,2026-05-15,Saída,Energia,Energia - operação 686,4505.67,Banco B,sim
+MB000687,2026-06-29,Entrada,Energia,Energia - operação 687,4734.73,Banco A,Sim
+MB000688,2026-01-07,Entrada,Tarifa bancária,Tarifa bancária - operação 688,1462.84,Banco B,Sim
+MB000689,2026-04-25,Saída,Outros,Outros - operação 689,2867.76,Banco B,Sim
+MB000690,2026-01-28,Entrada,Transferência,Transferência - operação 690,5003.29,Banco C,Não
+MB000691,2026-04-27,Entrada,Salário,Salário - operação 691,10577.32,Banco B,Sim
+MB000692,2026-02-01,Entrada,Impostos,Impostos - operação 692,9968.72,Banco B,Sim
+MB000693,2026-03-22,Saída,Outros,Outros - operação 693,507.1,Banco B,Sim
+MB000694,2026-04-12,Entrada,Impostos,Impostos - operação 694,11054.82,Banco A,Sim
+MB000695,2026-03-24,saída,Recebimento de cliente,Recebimento de cliente - operação 695,15904.51,Banco A,Sim
+MB000696,2026-05-08,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 696,2561.41,Banco A,Sim
+MB000697,2026-02-11,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 697,13596.14,Banco B,sim
+MB000698,2026-01-21,Saída,Impostos,Impostos - operação 698,0.0,banco b,Sim
+MB000699,2026-05-20,Entrada,Outros,Outros - operação 699,7523.53,Banco B,Sim
+MB000700,2026-05-21,Entrada,Aluguel,Aluguel - operação 700,8100.54,Banco A,Sim
+MB000701,2026-02-28,Entrada,Recebimento de cliente,Recebimento de cliente - operação 701,11623.42,Banco C,Sim
+MB000702,2026-01-14,Entrada,Transferência,Transferência - operação 702,810.99,Banco A,Sim
+MB000703,2026-02-09,Entrada,Outros,Outros - operação 703,5784.29,Banco B,Sim
+MB000704,2026-01-05,Saída,Energia,Energia - operação 704,8885.48,Banco C,Sim
+MB000705,2026-05-21,Entrada,Recebimento de cliente,Recebimento de cliente - operação 705,3642.23,Banco A,Sim
+MB000706,2026-02-28,Saída,Transferência,Transferência - operação 706,178.39,Banco C,Sim
+MB000707,2026-05-29,Saída,Outros,Outros - operação 707,16179.49,Banco A,Sim
+MB000708,2026-02-24,Entrada,Outros,Outros - operação 708,181.93,Banco C,Não
+MB000709,2026-03-14,Entrada,Outros,Outros - operação 709,6768.7,Banco B,NAO INFORMADO
+MB000710,2026-08-02,Entrada,NAO INFORMADO,Energia - operação 710,6054.02,Banco B,Sim
+MB000711,2026-04-11,Entrada,Energia,Energia - operação 711,8157.11,Banco B,Não
+MB000712,2026-06-16,Saída,NAO INFORMADO,Tarifa bancária - operação 712,3722.39,Banco A,Sim
+MB000713,2026-04-10,Entrada,Aluguel,Aluguel - operação 713,3642.56,Banco C,Sim
+MB000714,2026-08-02,Entrada,Energia,Energia - operação 714,6528.84,Banco A,Sim
+MB000715,2026-05-26,Entrada,Aluguel,Aluguel - operação 715,9224.23,Banco B,Sim
+MB000716,2026-02-25,Entrada,Impostos,Impostos - operação 716,3754.03,Banco C,Sim
+MB000717,2026-07-04,Saída,Transferência,Transferência - operação 717,17716.92,Banco C,Sim
+MB000718,2026-05-06,Saída,Outros,Outros - operação 718,10761.49,Banco C,Sim
+MB000719,2026-01-20,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 719,0.0,Banco A,Não
+MB000720,2026-01-13,Entrada,Energia,Energia - operação 720,16746.36,Banco B,Sim
+MB000721,2026-04-08,Saída,Salário,Salário - operação 721,1795.33,Banco B,Sim
+MB000722,2026-06-15,Entrada,Tarifa bancária,Tarifa bancária - operação 722,13366.14,Banco B,Sim
+MB000723,2026-03-13,saída,Recebimento de cliente,Recebimento de cliente - operação 723,5389.59,Banco A,Sim
+MB000724,2026-03-19,Entrada,Energia,Energia - operação 724,8251.85,Banco A,Sim
+MB000725,2026-06-12,Entrada,Transferência,Transferência - operação 725,3183.73,Banco A,Sim
+MB000726,2026-07-05,Entrada,Transferência,Transferência - operação 726,15662.76,Banco C,Sim
+MB000727,2026-03-11,Entrada,Recebimento de cliente,Recebimento de cliente - operação 727,12666.64,Banco B,Sim
+MB000728,2026-07-07,NAO INFORMADO,Aluguel,Aluguel - operação 728,1219.58,Banco C,Sim
+MB000729,2026-01-08,Entrada,Transferência,Transferência - operação 729,7813.15,Banco B,Sim
+MB000730,2026-02-14,Entrada,Recebimento de cliente,Recebimento de cliente - operação 730,11836.15,Banco B,Sim
+MB000731,2026-07-04,Saída,Aluguel,Aluguel - operação 731,14444.84,Banco A,sim
+MB000732,2026-08-12,Entrada,Aluguel,Aluguel - operação 732,12429.67,Banco A,Sim
+MB000733,2026-08-12,Saída,Tarifa bancária,Tarifa bancária - operação 733,10083.05,Banco C,Sim
+MB000734,2026-07-22,Entrada,Recebimento de cliente,Recebimento de cliente - operação 734,5192.98,Banco A,Não
+MB000735,2026-04-05,Saída,Transferência,Transferência - operação 735,9825.4,Banco B,Sim
+MB000736,2026-07-05,Saída,Outros,Outros - operação 736,2665.24,Banco C,Sim
+MB000737,2026-04-15,Entrada,Tarifa bancária,Tarifa bancária - operação 737,6729.37,Banco B,Sim
+MB000738,2026-02-07,Saída,Outros,Outros - operação 738,7370.47,Banco B,Sim
+MB000739,2026-06-04,Entrada,Salário,Salário - operação 739,6023.83,Banco B,Sim
+MB000740,2026-04-26,Saída,Salário,Salário - operação 740,16020.85,Banco B,Sim
+MB000741,2026-08-09,Entrada,NAO INFORMADO,Impostos - operação 741,9746.79,Banco C,Sim
+MB000742,2026-08-06,Saída,Salário,Salário - operação 742,17591.31,Banco A,Sim
+MB000743,2026-01-21,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 743,17829.55,Banco C,Sim
+MB000744,2026-05-14,Entrada,Recebimento de cliente,Recebimento de cliente - operação 744,4622.17,Banco C,Sim
+MB000745,2026-07-09,Entrada,Impostos,Impostos - operação 745,8830.78,Banco B,Sim
+MB000746,2026-05-21,Saída,Outros,Outros - operação 746,11841.21,Banco B,Sim
+MB000747,2026-05-28,Saída,Tarifa bancária,Tarifa bancária - operação 747,12396.03,Banco A,Sim
+MB000748,2026-06-13,Saída,Salário,Salário - operação 748,15026.57,Banco A,Sim
+MB000749,2026-08-17,Saída,pagamento fornecedor,Pagamento fornecedor - operação 749,8938.89,Banco A,Sim
+MB000750,2026-03-03,Saída,Energia,Energia - operação 750,14862.91,Banco C,Sim
+MB000751,2026-07-28,Entrada,Recebimento de cliente,Recebimento de cliente - operação 751,341.15,Banco B,Sim
+MB000752,2026-02-23,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 752,1253.04,Banco B,Sim
+MB000753,2026-04-19,Saída,Tarifa bancária,Tarifa bancária - operação 753,239.7,Banco C,Sim
+MB000754,2026-03-29,Saída,Impostos,Impostos - operação 754,3791.65,Banco B,Não
+MB000755,2026-05-31,Saída,Recebimento de cliente,Recebimento de cliente - operação 755,12240.16,Banco A,Sim
+MB000756,2026-03-23,Saída,Recebimento de cliente,Recebimento de cliente - operação 756,4641.29,Banco B,Sim
+MB000757,2026-07-12,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 757,7637.49,Banco C,Não
+MB000758,2026-08-14,Saída,Transferência,Transferência - operação 758,17903.76,Banco B,Sim
+MB000759,2026-05-05,Entrada,Transferência,Transferência - operação 759,4576.21,Banco A,Sim
+MB000760,2026-03-04,Entrada,Transferência,Transferência - operação 760,6868.33,Banco B,Sim
+MB000761,2026-06-04,Saída,Recebimento de cliente,Recebimento de cliente - operação 761,5845.56,Banco C,Sim
+MB000762,2026-02-25,Saída,Tarifa bancária,Tarifa bancária - operação 762,1754.42,Banco C,Sim
+MB000763,2026-06-01,Entrada,Outros,outros - operação 763,8027.52,Banco C,Sim
+MB000764,2026-04-29,Entrada,Tarifa bancária,Tarifa bancária - operação 764,14433.47,Banco C,Sim
+MB000765,2026-03-06,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 765,12582.99,Banco B,Sim
+MB000766,2026-08-19,Saída,Energia,Energia - operação 766,15371.31,Banco A,Sim
+MB000767,2026-06-03,Saída,Tarifa bancária,Tarifa bancária - operação 767,2018.66,Banco A,Sim
+MB000768,2026-02-20,Saída,Transferência,Transferência - operação 768,4520.32,Banco B,Sim
+MB000769,2026-07-17,Saída,recebimento de cliente,Recebimento de cliente - operação 769,5475.87,Banco A,Sim
+MB000770,2026-08-10,Saída,Transferência,Transferência - operação 770,4155.75,Banco B,Sim
+MB000771,2026-01-26,Entrada,Salário,Salário - operação 771,2419.38,Banco C,Não
+MB000772,2026-01-07,Saída,Transferência,Transferência - operação 772,6631.83,Banco C,Sim
+MB000773,2026-01-06,Saída,Impostos,impostos - operação 773,11445.23,Banco A,Sim
+MB000774,2026-05-02,Entrada,Energia,Energia - operação 774,7881.43,Banco C,Sim
+MB000775,2026-01-18,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 775,4766.82,Banco C,Sim
+MB000776,2026-05-02,Saída,Outros,Outros - operação 776,16550.98,Banco A,Sim
+MB000777,2026-01-07,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 777,10289.05,Banco C,Sim
+MB000778,2026-04-25,Saída,Impostos,Impostos - operação 778,10054.76,Banco B,Sim
+MB000779,2026-07-22,Entrada,Tarifa bancária,Tarifa bancária - operação 779,2129.5,Banco A,Sim
+MB000780,2026-02-21,Entrada,Energia,Energia - operação 780,2441.21,Banco C,Sim
+MB000781,2026-01-03,Saída,Recebimento de cliente,Recebimento de cliente - operação 781,9208.02,Banco A,Sim
+MB000782,2026-05-15,Entrada,Outros,Outros - operação 782,208.99,Banco A,Sim
+MB000783,2026-03-04,Saída,Aluguel,Aluguel - operação 783,3436.57,Banco B,Sim
+MB000784,2026-05-03,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 784,3144.9,Banco C,Sim
+MB000785,2026-08-08,Entrada,Salário,Salário - operação 785,12024.13,Banco C,Sim
+MB000786,2026-08-09,Entrada,Transferência,Transferência - operação 786,9265.25,Banco A,Não
+MB000787,2026-02-12,Entrada,Tarifa bancária,Tarifa bancária - operação 787,15123.89,Banco B,Sim
+MB000788,2026-07-31,Entrada,Tarifa bancária,Tarifa bancária - operação 788,1121.13,Banco B,Sim
+MB000789,2026-08-11,Saída,Tarifa bancária,Tarifa bancária - operação 789,546.59,Banco C,Sim
+MB000790,2026-04-11,Saída,Aluguel,NAO INFORMADO,13487.52,Banco A,Sim
+MB000791,2026-06-07,Saída,NAO INFORMADO,Tarifa bancária - operação 791,11646.44,Banco C,Sim
+MB000792,2026-03-03,Saída,Outros,Outros - operação 792,5212.92,Banco A,Sim
+MB000793,2026-06-03,Entrada,Tarifa bancária,Tarifa bancária - operação 793,1240.69,Banco A,Sim
+MB000794,2026-07-17,Entrada,NAO INFORMADO,Impostos - operação 794,5029.14,Banco B,Sim
+MB000795,2026-06-16,Saída,Energia,NAO INFORMADO,15062.02,banco c,Sim
+MB000796,2026-03-20,Saída,Outros,Outros - operação 796,8805.79,Banco C,Não
+MB000797,2026-06-27,Saída,Salário,Salário - operação 797,8474.44,Banco A,Sim
+MB000798,2026-03-29,Saída,Outros,Outros - operação 798,11113.78,Banco A,Sim
+MB000799,2026-06-11,Entrada,Energia,Energia - operação 799,15751.79,Banco C,Sim
+MB000800,2026-02-28,Saída,Impostos,Impostos - operação 800,16334.56,Banco C,Sim
+MB000801,2026-03-31,Entrada,Aluguel,Aluguel - operação 801,14871.95,Banco C,NAO INFORMADO
+MB000802,2026-03-13,Entrada,Tarifa bancária,Tarifa bancária - operação 802,12070.84,Banco A,Não
+MB000803,2026-08-16,Entrada,Energia,Energia - operação 803,3459.89,Banco C,Sim
+MB000804,2026-07-02,Saída,Outros,Outros - operação 804,5814.51,Banco B,Não
+MB000805,2026-05-14,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 805,13056.44,Banco B,Sim
+MB000806,2026-02-22,Saída,Impostos,Impostos - operação 806,3336.25,Banco C,Sim
+MB000807,2026-04-06,NAO INFORMADO,Tarifa bancária,Tarifa bancária - operação 807,8743.96,Banco B,Não
+MB000808,2026-04-28,Saída,Impostos,Impostos - operação 808,2676.8,Banco C,Sim
+MB000809,2026-03-06,Entrada,Tarifa bancária,Tarifa bancária - operação 809,14645.41,Banco B,Sim
+MB000810,2026-01-18,Entrada,Energia,Energia - operação 810,16704.11,Banco B,Sim
+MB000811,2026-05-30,Entrada,Outros,Outros - operação 811,10235.79,Banco A,Sim
+MB000812,2026-01-14,Saída,Transferência,Transferência - operação 812,10735.13,Banco B,NAO INFORMADO
+MB000813,2026-04-10,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 813,2558.11,Banco A,Sim
+MB000814,2026-07-14,Entrada,Recebimento de cliente,Recebimento de cliente - operação 814,15256.79,Banco B,Sim
+MB000815,2026-05-21,Saída,Energia,Energia - operação 815,2337.23,Banco A,Sim
+MB000816,2026-02-22,Entrada,Recebimento de cliente,Recebimento de cliente - operação 816,226.92,Banco B,Não
+MB000817,2026-07-04,Entrada,Energia,Energia - operação 817,7764.96,Banco A,Sim
+MB000818,2026-06-08,Saída,Energia,Energia - operação 818,16704.94,Banco B,Sim
+MB000819,2026-02-08,Entrada,Outros,Outros - operação 819,10534.95,Banco A,Sim
+MB000820,2026-07-26,Saída,Aluguel,Aluguel - operação 820,9773.72,Banco A,Sim
+MB000821,2026-01-24,Saída,Energia,Energia - operação 821,14581.43,Banco A,Sim
+MB000822,2026-03-05,Saída,Aluguel,Aluguel - operação 822,4394.34,Banco C,Sim
+MB000823,2026-08-17,Entrada,Aluguel,Aluguel - operação 823,5066.5,Banco A,Sim
+MB000824,2026-06-21,Entrada,Tarifa bancária,Tarifa bancária - operação 824,10454.49,Banco C,Sim
+MB000825,2026-04-25,Entrada,Aluguel,Aluguel - operação 825,1851.58,Banco A,Sim
+MB000826,2026-07-02,Saída,Transferência,NAO INFORMADO,2749.42,Banco B,Não
+MB000827,2026-07-12,Saída,Recebimento de cliente,Recebimento de cliente - operação 827,9765.7,Banco B,Sim
+MB000828,2026-08-14,Saída,Tarifa bancária,Tarifa bancária - operação 828,14223.1,Banco C,Sim
+MB000829,2026-03-24,Entrada,Transferência,Transferência - operação 829,9160.69,Banco B,Sim
+MB000830,2026-06-05,Entrada,Impostos,Impostos - operação 830,2644.06,Banco A,Não
+MB000831,2026-08-03,Saída,Salário,Salário - operação 831,14195.86,Banco A,Sim
+MB000832,2026-03-22,Saída,Tarifa bancária,Tarifa bancária - operação 832,4970.84,Banco C,NAO INFORMADO
+MB000833,2026-08-19,Entrada,Tarifa bancária,tarifa bancária - operação 833,10827.82,Banco B,Sim
+MB000834,2026-06-25,Saída,Aluguel,Aluguel - operação 834,11636.32,Banco A,Sim
+MB000835,2026-07-02,Entrada,Tarifa bancária,Tarifa bancária - operação 835,10311.23,Banco B,Sim
+MB000836,2026-01-06,Saída,Tarifa bancária,Tarifa bancária - operação 836,13049.0,Banco B,Sim
+MB000837,2026-04-22,Entrada,Impostos,Impostos - operação 837,4152.6,Banco B,Sim
+MB000838,2026-05-03,Entrada,Salário,Salário - operação 838,3983.51,Banco C,Sim
+MB000839,2026-06-03,Saída,Aluguel,Aluguel - operação 839,15233.95,Banco B,Sim
+MB000840,2026-01-13,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 840,12742.53,Banco A,Sim
+MB000841,2026-06-07,Saída,Recebimento de cliente,Recebimento de cliente - operação 841,4544.52,Banco C,Sim
+MB000842,2026-04-26,Entrada,Energia,Energia - operação 842,2592.33,Banco B,sim
+MB000843,2026-08-11,Entrada,Aluguel,Aluguel - operação 843,7399.89,Banco A,Sim
+MB000844,2026-01-18,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 844,11195.96,Banco C,Sim
+MB000845,2026-03-15,Saída,Transferência,Transferência - operação 845,16959.19,Banco A,Sim
+MB000846,2026-01-05,NAO INFORMADO,Pagamento fornecedor,Pagamento fornecedor - operação 846,1259.51,Banco A,Sim
+MB000847,2026-07-29,Entrada,Outros,Outros - operação 847,2278.26,Banco B,Sim
+MB000848,2026-07-14,Saída,Salário,Salário - operação 848,2791.3,Banco A,Sim
+MB000849,2026-07-21,NAO INFORMADO,Impostos,Impostos - operação 849,15404.56,Banco B,Sim
+MB000850,2026-07-28,Entrada,Outros,Outros - operação 850,9105.95,Banco A,Sim
+MB000851,2026-04-02,Entrada,Recebimento de cliente,Recebimento de cliente - operação 851,8469.75,Banco A,Sim
+MB000852,2026-08-09,Saída,Impostos,Impostos - operação 852,10350.87,Banco B,Sim
+MB000853,2026-03-04,Saída,Salário,Salário - operação 853,12798.25,Banco C,Sim
+MB000854,2026-02-11,Saída,Recebimento de cliente,Recebimento de cliente - operação 854,1253.98,Banco B,Sim
+MB000855,2026-01-01,Entrada,Transferência,Transferência - operação 855,9543.63,Banco B,Sim
+MB000856,2026-05-21,Saída,Tarifa bancária,Tarifa bancária - operação 856,16003.83,Banco B,Sim
+MB000857,2026-01-04,Saída,Tarifa bancária,Tarifa bancária - operação 857,13541.78,Banco C,Sim
+MB000858,2026-02-12,Saída,Transferência,Transferência - operação 858,2316.01,Banco A,Sim
+MB000859,2026-01-19,Saída,Impostos,Impostos - operação 859,15162.93,Banco A,Não
+MB000860,2026-08-20,Saída,Tarifa bancária,Tarifa bancária - operação 860,6798.2,Banco B,Sim
+MB000861,2026-03-22,Saída,Aluguel,Aluguel - operação 861,13518.09,Banco A,Sim
+MB000862,2026-07-18,Entrada,Transferência,Transferência - operação 862,15580.29,Banco C,Sim
+MB000863,2026-06-16,Entrada,Tarifa bancária,Tarifa bancária - operação 863,4438.63,Banco A,Sim
+MB000864,2026-08-20,Saída,Energia,Energia - operação 864,8787.63,Banco B,Sim
+MB000865,2026-04-06,Entrada,Transferência,Transferência - operação 865,2390.93,Banco A,Sim
+MB000866,2026-02-07,Entrada,Energia,Energia - operação 866,6763.94,Banco B,Sim
+MB000867,2026-04-09,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 867,10788.34,NAO INFORMADO,Sim
+MB000868,2026-05-22,Saída,Recebimento de cliente,Recebimento de cliente - operação 868,16814.89,Banco B,Sim
+MB000869,2026-04-01,Saída,Aluguel,Aluguel - operação 869,5620.63,Banco C,Sim
+MB000870,2026-01-03,Entrada,Salário,Salário - operação 870,13410.86,Banco C,Sim
+MB000871,2026-01-16,Entrada,Outros,Outros - operação 871,3975.55,banco c,Sim
+MB000872,2026-01-07,Saída,Tarifa bancária,Tarifa bancária - operação 872,6046.03,Banco C,Sim
+MB000873,2026-03-30,Saída,Impostos,Impostos - operação 873,5164.44,Banco A,Sim
+MB000874,2026-05-30,Entrada,Transferência,Transferência - operação 874,13664.94,Banco B,Sim
+MB000875,2026-01-10,Saída,Outros,Outros - operação 875,1257.84,Banco A,Sim
+MB000876,2026-03-26,saída,Energia,Energia - operação 876,2633.93,Banco A,Sim
+MB000877,2026-06-07,Saída,Energia,Energia - operação 877,7129.47,Banco A,Sim
+MB000878,2026-03-19,Entrada,Salário,Salário - operação 878,0.0,Banco C,Sim
+MB000879,2026-04-17,Entrada,Tarifa bancária,Tarifa bancária - operação 879,9869.65,Banco B,Sim
+MB000880,2026-01-01,Entrada,Salário,Salário - operação 880,15466.19,Banco B,Sim
+MB000881,2026-07-21,Entrada,Aluguel,Aluguel - operação 881,8456.1,Banco A,Sim
+MB000882,2026-01-30,Entrada,Transferência,Transferência - operação 882,14619.83,Banco B,Não
+MB000883,2026-07-06,Saída,Transferência,Transferência - operação 883,17204.25,Banco B,Não
+MB000884,2026-05-23,Saída,Impostos,Impostos - operação 884,11385.87,Banco B,Sim
+MB000885,2026-02-09,Saída,Outros,Outros - operação 885,12302.7,Banco C,Sim
+MB000886,2026-02-27,Entrada,Tarifa bancária,Tarifa bancária - operação 886,8726.96,Banco B,Sim
+MB000887,2026-03-18,Saída,Tarifa bancária,Tarifa bancária - operação 887,970.59,Banco C,Sim
+MB000888,2026-07-25,Entrada,pagamento fornecedor,Pagamento fornecedor - operação 888,14842.04,Banco C,Sim
+MB000889,2026-08-05,Entrada,Aluguel,Aluguel - operação 889,8385.04,Banco A,Sim
+MB000890,2026-06-28,Saída,Outros,Outros - operação 890,6565.72,Banco C,Sim
+MB000891,2026-04-18,Saída,Impostos,Impostos - operação 891,5418.57,Banco A,Sim
+MB000892,2026-06-09,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 892,13960.64,Banco A,Sim
+MB000893,2026-04-14,Saída,Salário,Salário - operação 893,7485.3,Banco A,Sim
+MB000894,2026-04-05,Entrada,Energia,Energia - operação 894,4280.5,Banco B,NAO INFORMADO
+MB000895,2026-05-31,Entrada,Tarifa bancária,Tarifa bancária - operação 895,7770.4,Banco A,Sim
+MB000896,2026-03-04,Saída,Salário,Salário - operação 896,6083.2,Banco C,Sim
+MB000897,2026-06-01,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 897,1856.84,Banco A,Sim
+MB000898,2026-02-08,Saída,Tarifa bancária,Tarifa bancária - operação 898,8893.04,Banco A,Sim
+MB000899,2026-01-14,Entrada,Transferência,Transferência - operação 899,3237.44,Banco A,Sim
+MB000900,2026-08-04,Saída,Impostos,Impostos - operação 900,12005.75,Banco A,Sim
+MB000901,2026-02-12,Entrada,Impostos,Impostos - operação 901,1844.49,Banco C,Sim
+MB000902,2026-01-11,Saída,Recebimento de cliente,Recebimento de cliente - operação 902,14794.66,Banco A,Sim
+MB000903,2026-08-18,Saída,Transferência,Transferência - operação 903,1980.32,Banco C,Sim
+MB000904,2026-06-07,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 904,14980.85,Banco B,Sim
+MB000905,2026-01-17,Saída,Energia,Energia - operação 905,2875.22,Banco C,Sim
+MB000906,2026-01-25,Saída,Aluguel,Aluguel - operação 906,12418.12,Banco A,Sim
+MB000907,2026-08-07,Saída,Salário,Salário - operação 907,12523.61,Banco B,Sim
+MB000908,2026-05-11,Entrada,Energia,Energia - operação 908,11780.14,Banco B,Sim
+MB000909,2026-07-26,Entrada,Energia,Energia - operação 909,12009.28,Banco A,Sim
+MB000910,2026-04-29,Entrada,Salário,Salário - operação 910,710.52,Banco A,Não
+MB000911,2026-08-13,Entrada,Salário,Salário - operação 911,1982.76,Banco B,Sim
+MB000912,2026-02-08,Entrada,Energia,Energia - operação 912,13878.08,Banco C,Sim
+MB000913,2026-05-29,Entrada,Transferência,Transferência - operação 913,7864.26,Banco A,Sim
+MB000914,2026-07-06,Saída,Energia,Energia - operação 914,16876.98,Banco A,Sim
+MB000915,2026-06-17,Entrada,Impostos,Impostos - operação 915,2859.73,Banco A,Sim
+MB000916,2026-01-17,NAO INFORMADO,Recebimento de cliente,Recebimento de cliente - operação 916,15148.13,Banco B,Sim
+MB000917,2026-02-17,Saída,Transferência,Transferência - operação 917,11867.01,Banco B,Sim
+MB000918,2026-04-26,Entrada,Impostos,Impostos - operação 918,13427.8,Banco C,Sim
+MB000919,2026-06-18,Saída,Salário,Salário - operação 919,183.52,Banco A,Sim
+MB000920,2026-04-17,Entrada,Transferência,Transferência - operação 920,15765.6,Banco B,Sim
+MB000921,2026-01-11,Entrada,Aluguel,Aluguel - operação 921,9254.48,Banco B,Sim
+MB000922,2026-02-21,Entrada,Tarifa bancária,Tarifa bancária - operação 922,740.16,Banco A,Sim
+MB000923,2026-07-02,Saída,Impostos,Impostos - operação 923,6102.38,Banco A,Sim
+MB000924,2026-07-17,Saída,Aluguel,Aluguel - operação 924,3838.56,Banco B,Sim
+MB000925,2026-03-12,Saída,Tarifa bancária,Tarifa bancária - operação 925,16018.08,Banco C,Não
+MB000926,2026-06-06,Entrada,Tarifa bancária,Tarifa bancária - operação 926,13866.33,Banco C,NAO INFORMADO
+MB000927,2026-04-27,Saída,Outros,Outros - operação 927,5258.97,Banco B,Sim
+MB000928,2026-03-14,Saída,Recebimento de cliente,Recebimento de cliente - operação 928,7361.69,Banco C,Sim
+MB000929,2026-05-02,Saída,Transferência,Transferência - operação 929,16458.19,Banco C,Não
+MB000930,2026-03-01,Saída,Aluguel,Aluguel - operação 930,8114.42,Banco B,Sim
+MB000931,2026-07-29,Entrada,Energia,Energia - operação 931,7136.89,Banco A,sim
+MB000932,2026-02-28,Entrada,Aluguel,Aluguel - operação 932,0.0,Banco B,Sim
+MB000933,2026-04-12,Entrada,Tarifa bancária,Tarifa bancária - operação 933,907.36,Banco A,Sim
+MB000934,2026-05-18,Saída,Tarifa bancária,tarifa bancária - operação 934,343.36,Banco C,Sim
+MB000935,2026-07-16,Saída,Recebimento de cliente,Recebimento de cliente - operação 935,8964.61,Banco C,Sim
+MB000936,2026-05-17,Saída,Energia,Energia - operação 936,14045.16,Banco A,Sim
+MB000937,2026-05-24,Saída,Salário,Salário - operação 937,9833.89,Banco A,Sim
+MB000938,2026-06-25,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 938,5951.51,Banco A,Sim
+MB000939,2026-01-06,Entrada,NAO INFORMADO,Salário - operação 939,16762.92,Banco C,Sim
+MB000940,2026-02-13,Entrada,energia,Energia - operação 940,7509.58,Banco B,Sim
+MB000941,2026-07-06,Entrada,Impostos,Impostos - operação 941,1802.0,Banco B,Sim
+MB000942,2026-05-19,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 942,1418.25,Banco A,Sim
+MB000943,2026-08-07,Entrada,Aluguel,Aluguel - operação 943,1234.38,Banco B,Sim
+MB000944,2026-01-30,Saída,Impostos,Impostos - operação 944,2229.83,Banco C,Sim
+MB000945,2026-05-11,Entrada,Transferência,Transferência - operação 945,0.0,Banco B,Sim
+MB000946,2026-04-02,Entrada,impostos,Impostos - operação 946,3216.35,Banco A,Sim
+MB000947,2026-03-06,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 947,17858.61,Banco A,Sim
+MB000948,2026-03-29,Entrada,Outros,Outros - operação 948,14683.16,Banco C,Sim
+MB000949,2026-05-03,Saída,Recebimento de cliente,Recebimento de cliente - operação 949,6156.24,Banco B,Sim
+MB000950,2026-01-27,Saída,Tarifa bancária,Tarifa bancária - operação 950,3861.86,Banco A,Não
+MB000951,2026-06-13,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 951,17571.66,Banco C,Sim
+MB000952,2026-08-02,Saída,Outros,Outros - operação 952,13886.56,Banco B,Sim
+MB000953,2026-06-14,Saída,Aluguel,NAO INFORMADO,16204.47,Banco A,Sim
+MB000954,2026-02-18,Entrada,Impostos,Impostos - operação 954,357.33,Banco C,Sim
+MB000955,2026-06-16,Saída,Tarifa bancária,Tarifa bancária - operação 955,13507.7,Banco A,Sim
+MB000956,2026-08-09,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 956,2456.73,Banco A,Não
+MB000957,2026-05-14,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 957,10692.29,Banco B,Sim
+MB000958,2026-05-22,Saída,Impostos,Impostos - operação 958,2199.57,Banco A,Sim
+MB000959,2026-03-04,Entrada,Outros,Outros - operação 959,14807.85,Banco B,Sim
+MB000960,2026-08-08,Entrada,Recebimento de cliente,Recebimento de cliente - operação 960,16905.92,Banco C,sim
+MB000961,2026-06-28,Entrada,Tarifa bancária,Tarifa bancária - operação 961,17987.09,Banco B,Sim
+MB000962,2026-08-06,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 962,17553.58,Banco B,Sim
+MB000963,2026-05-08,Entrada,Energia,Energia - operação 963,7353.33,Banco A,Sim
+MB000964,2026-03-25,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 964,15657.61,Banco C,Não
+MB000965,2026-06-03,Entrada,Impostos,Impostos - operação 965,2085.07,Banco B,Sim
+MB000966,2026-03-23,Entrada,Salário,Salário - operação 966,10396.58,Banco C,Sim
+MB000967,2026-03-01,Entrada,Energia,Energia - operação 967,5641.22,Banco C,Sim
+MB000968,2026-08-08,Entrada,Outros,Outros - operação 968,16837.01,Banco C,Sim
+MB000969,2026-03-18,Saída,Energia,Energia - operação 969,1852.82,Banco B,Sim
+MB000970,2026-03-21,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 970,11859.26,Banco B,Sim
+MB000971,2026-02-05,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 971,17084.26,Banco C,Sim
+MB000972,2026-01-28,Saída,Recebimento de cliente,Recebimento de cliente - operação 972,8472.55,Banco B,Sim
+MB000973,2026-05-19,Entrada,Energia,Energia - operação 973,2900.58,Banco C,Sim
+MB000974,2026-01-21,Saída,Salário,Salário - operação 974,3373.07,Banco C,Sim
+MB000975,2026-06-11,Entrada,Transferência,Transferência - operação 975,3970.6,Banco C,Sim
+MB000976,2026-02-13,Saída,Aluguel,Aluguel - operação 976,17814.16,Banco A,Sim
+MB000977,2026-08-13,Entrada,Aluguel,Aluguel - operação 977,8893.12,Banco A,Sim
+MB000978,2026-04-21,Entrada,Tarifa bancária,Tarifa bancária - operação 978,3504.87,Banco C,Sim
+MB000979,2026-03-30,Entrada,Tarifa bancária,Tarifa bancária - operação 979,17528.3,Banco B,Não
+MB000980,2026-03-15,Entrada,Aluguel,Aluguel - operação 980,11114.11,Banco A,Sim
+MB000981,2026-03-07,Saída,Transferência,Transferência - operação 981,76.07,Banco A,Sim
+MB000982,2026-06-01,Entrada,Energia,Energia - operação 982,12458.83,Banco C,Sim
+MB000983,2026-07-28,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 983,17410.78,Banco A,Sim
+MB000984,2026-07-02,Entrada,Aluguel,Aluguel - operação 984,17966.7,Banco C,Sim
+MB000985,2026-07-07,Entrada,Tarifa bancária,Tarifa bancária - operação 985,2436.67,Banco A,Sim
+MB000986,2026-01-29,Saída,Recebimento de cliente,Recebimento de cliente - operação 986,11750.76,Banco C,Sim
+MB000987,2026-08-01,Entrada,Tarifa bancária,Tarifa bancária - operação 987,1969.82,Banco A,Sim
+MB000988,2026-02-06,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 988,15644.98,Banco B,Sim
+MB000989,2026-04-07,Saída,Energia,Energia - operação 989,8009.24,Banco A,Sim
+MB000990,2026-02-22,Saída,Impostos,Impostos - operação 990,3424.61,Banco C,Sim
+MB000991,2026-05-06,Saída,Energia,Energia - operação 991,7902.24,Banco B,NAO INFORMADO
+MB000992,2026-04-21,Saída,Salário,salário - operação 992,1152.21,Banco A,Sim
+MB000993,2026-05-15,Entrada,Aluguel,Aluguel - operação 993,7470.61,Banco B,Sim
+MB000994,2026-03-14,Entrada,Salário,Salário - operação 994,7699.43,Banco A,Sim
+MB000995,2026-07-21,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 995,10577.4,Banco B,Sim
+MB000996,2026-06-14,Entrada,Transferência,Transferência - operação 996,3656.59,Banco B,NAO INFORMADO
+MB000997,2026-04-10,Entrada,Salário,Salário - operação 997,8672.29,Banco B,Sim
+MB000998,2026-01-05,Entrada,Transferência,Transferência - operação 998,6953.24,Banco C,Sim
+MB000999,2026-06-14,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 999,4854.78,Banco B,Sim
+MB001000,2026-03-07,Entrada,Energia,Energia - operação 1000,15522.94,Banco C,Sim
+MB000779,2026-07-22,Entrada,Tarifa bancária,Tarifa bancária - operação 779,2129.5,Banco A,Sim
+MB000335,2026-05-28,Saída,Transferência,Transferência - operação 335,4448.59,Banco C,Sim
+MB000272,2026-07-05,Entrada,Salário,Salário - operação 272,12340.61,Banco B,Sim
+MB000803,2026-08-16,Entrada,Energia,Energia - operação 803,3459.89,Banco C,Sim
+MB000217,2026-02-02,Saída,Tarifa bancária,Tarifa bancária - operação 217,5976.38,Banco C,Não
+MB000409,2026-06-12,Entrada,Pagamento fornecedor,Pagamento fornecedor - operação 409,10197.26,Banco C,Sim
+MB000813,2026-04-10,Saída,Pagamento fornecedor,Pagamento fornecedor - operação 813,2558.11,Banco A,Sim
+MB000095,2026-01-22,Entrada,Outros,Outros - operação 95,5360.06,Banco C,Sim
+MB000488,2026-04-03,NAO INFORMADO,Transferência,Transferência - operação 488,4023.92,Banco B,Sim
+MB000171,2026-03-28,Entrada,Energia,Energia - operação 171,8085.07,Banco A,Não
+MB000025,2026-06-04,Entrada,Outros,Outros - operação 25,1788.7,Banco A,Sim
+MB000243,2026-03-21,Entrada,Outros,Outros - operação 243,6344.79,Banco B,Sim
+MB000543,2026-06-12,Saída,Transferência,Transferência - operação 543,3313.07,Banco A,Sim
+MB000931,2026-07-29,Entrada,Energia,Energia - operação 931,7136.89,Banco A,sim
+MB000887,2026-03-18,Saída,Tarifa bancária,Tarifa bancária - operação 887,970.59,Banco C,Sim
